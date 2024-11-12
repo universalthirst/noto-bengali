@@ -2385,7 +2385,7 @@ value = (
 );
 guides = (
 {
-pos = (303,180);
+pos = (303,179);
 }
 );
 iconName = Light_Condensed;
