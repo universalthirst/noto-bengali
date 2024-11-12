@@ -10,6 +10,6 @@ displayStrings = (
 /tt_tt_ra-beng  /nn_tth_ra-beng  /n_k_ta-beng  /n_ja-beng  /n_dh_ba-beng  /n_s_tta-beng  /p_t_ra-beng  /b_ddha-beng  /b_bh_ra-beng  /m_tha-beng  /m_d_ra-beng  /m_p_la-beng  /m_ph_ra-beng  /l_gha-beng  /l_ddha-beng  /l_d_ra-beng  /l_ph_ra-beng  /l_bha-beng  /l_sa-beng  /sh_tta-beng  /ss_tt_ba-beng  /s_k_la-beng  /s_p_la-beng  /s_ph_ra-beng 
 ",
 "/tt_tt_ra-beng  /nn_tth_ra-beng  /n_k_ta-beng  /b_ja-beng/n_ja-beng  /n_dh_ba-beng  /n_s_tta-beng  প/p_t_ra-beng  ব/b_ddha-beng  /b_bh_ra-beng/d_bh_ra-beng  /m_tha-beng  /m_d_ra-beng  
-/m_tha-beng  /m_p_la-beng/m_ph_ra-beng/l_ddha-beng/l_d_ra-beng/l_gha-beng/l_ph_ra-beng  /l_bha-beng  /n_sa-beng/n_s_tta-beng  /n_sa-beng/l_gha-beng/n_sa-beng/l_sa-beng  /sh_tta-beng  /ss_tt_ba-beng  /s_k_la-beng  /s_p_la-beng  /s_ph_ra-beng"
+/m_tha-beng  /m_p_la-beng/m_ph_ra-beng/l_ddha-beng/l_d_ra-beng/l_gha-beng/l_ph_ra-beng  /l_bha-beng  /n_sa-beng/n_s_tta-beng  /n_sa-beng/l_gha-beng/n_sa-beng/l_sa-beng  /n_sa-beng/n_s_tta-beng  /sh_tta-beng  /ss_tt_ba-beng  /s_ka-beng/s_k_la-beng  /s_p_la-beng  /s_ph_ra-beng"
 );
 }
