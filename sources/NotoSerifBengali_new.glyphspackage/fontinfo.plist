@@ -1973,6 +1973,7 @@ stemValues = (
 20,
 23
 );
+visible = 1;
 },
 {
 axesValues = (
