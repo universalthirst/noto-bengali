@@ -1,5 +1,6 @@
 {
 category = Letter;
+color = 8;
 glyphname = "ss_tt_ra-beng";
 layers = (
 {

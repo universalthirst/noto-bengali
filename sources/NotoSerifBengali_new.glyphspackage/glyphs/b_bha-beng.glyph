@@ -1,5 +1,6 @@
 {
 category = Letter;
+color = 8;
 glyphname = "b_bha-beng";
 layers = (
 {
