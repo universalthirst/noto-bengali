@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = "m_d_ra-beng";
 layers = (
 {
@@ -11,6 +11,10 @@ pos = (678,-118);
 {
 name = bottom.rvocalic;
 pos = (678,-97);
+},
+{
+name = bottom.virama;
+pos = (668,-102);
 },
 {
 name = top;
@@ -260,11 +264,15 @@ width = 800;
 anchors = (
 {
 name = bottom;
-pos = (710,-139);
+pos = (707,-118);
 },
 {
 name = bottom.rvocalic;
 pos = (710,-136);
+},
+{
+name = bottom.virama;
+pos = (683,-119);
 },
 {
 name = top;
@@ -397,11 +405,15 @@ width = 816;
 anchors = (
 {
 name = bottom;
-pos = (864,-297);
+pos = (864,-274);
 },
 {
 name = bottom.rvocalic;
 pos = (864,-307);
+},
+{
+name = bottom.virama;
+pos = (824,-291);
 },
 {
 name = top;
@@ -651,11 +663,15 @@ width = 951;
 anchors = (
 {
 name = bottom;
-pos = (486,-77);
+pos = (479,-57);
 },
 {
 name = bottom.rvocalic;
 pos = (486,-56);
+},
+{
+name = bottom.virama;
+pos = (471,-62);
 },
 {
 name = top;
@@ -905,11 +921,15 @@ width = 579;
 anchors = (
 {
 name = bottom;
-pos = (515,-151);
+pos = (515,-131);
 },
 {
 name = bottom.rvocalic;
-pos = (515,-148);
+pos = (515,-138);
+},
+{
+name = bottom.virama;
+pos = (490,-141);
 },
 {
 name = top;
@@ -1159,11 +1179,15 @@ width = 604;
 anchors = (
 {
 name = bottom;
-pos = (687,-301);
+pos = (693,-290);
 },
 {
 name = bottom.rvocalic;
 pos = (687,-311);
+},
+{
+name = bottom.virama;
+pos = (672,-301);
 },
 {
 name = top;

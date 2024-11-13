@@ -664,7 +664,7 @@ pos = (336,61);
 },
 {
 name = bottom.rakaar;
-pos = (378,14);
+pos = (378,4);
 },
 {
 name = bottom.rvocalic;
@@ -825,7 +825,7 @@ nodes = (
 (403,339,o),
 (410,360,c),
 (402,363,l),
-(400,219,o),
+(402,219,o),
 (341,89,o),
 (266,89,cs),
 (236,89,o),
@@ -882,7 +882,7 @@ pos = (414,30);
 },
 {
 name = bottom.rakaar;
-pos = (460,0);
+pos = (450,0);
 },
 {
 name = bottom.rvocalic;
@@ -1100,7 +1100,7 @@ pos = (549,-10);
 },
 {
 name = bottom.rakaar;
-pos = (633,0);
+pos = (628,0);
 },
 {
 name = bottom.rvocalic;

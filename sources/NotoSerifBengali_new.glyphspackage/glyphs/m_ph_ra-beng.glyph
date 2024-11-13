@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = "m_ph_ra-beng";
 layers = (
 {
@@ -9,16 +9,12 @@ name = bottom;
 pos = (645,-159);
 },
 {
-name = bottom.rakaar;
-pos = (645,10);
-},
-{
 name = bottom.rvocalic;
 pos = (645,-138);
 },
 {
 name = bottom.virama;
-pos = (635,-40);
+pos = (626,-131);
 },
 {
 name = top;
@@ -33,7 +29,6 @@ name = vedic;
 pos = (450,0);
 }
 );
-color = 0;
 layerId = "94EB6DF8-7434-4BE0-9F23-77BCD575F5B8";
 shapes = (
 {
@@ -192,11 +187,7 @@ width = 900;
 anchors = (
 {
 name = bottom;
-pos = (668,-225);
-},
-{
-name = bottom.rakaar;
-pos = (668,-38);
+pos = (663,-204);
 },
 {
 name = bottom.rvocalic;
@@ -204,7 +195,7 @@ pos = (668,-222);
 },
 {
 name = bottom.virama;
-pos = (648,-102);
+pos = (631,-202);
 },
 {
 name = top;
@@ -377,11 +368,7 @@ width = 920;
 anchors = (
 {
 name = bottom;
-pos = (800,-321);
-},
-{
-name = bottom.rakaar;
-pos = (800,-60);
+pos = (800,-296);
 },
 {
 name = bottom.rvocalic;
@@ -389,7 +376,7 @@ pos = (800,-331);
 },
 {
 name = bottom.virama;
-pos = (780,-140);
+pos = (756,-310);
 },
 {
 name = top;
@@ -562,11 +549,7 @@ width = 1038;
 anchors = (
 {
 name = bottom;
-pos = (458,-159);
-},
-{
-name = bottom.rakaar;
-pos = (460,-20);
+pos = (454,-137);
 },
 {
 name = bottom.rvocalic;
@@ -574,7 +557,7 @@ pos = (462,-148);
 },
 {
 name = bottom.virama;
-pos = (458,-8);
+pos = (445,-147);
 },
 {
 name = top;
@@ -748,19 +731,15 @@ width = 652;
 anchors = (
 {
 name = bottom;
-pos = (507,-216);
-},
-{
-name = bottom.rakaar;
-pos = (511,-32);
+pos = (507,-192);
 },
 {
 name = bottom.rvocalic;
-pos = (507,-213);
+pos = (507,-203);
 },
 {
 name = bottom.virama;
-pos = (498,-96);
+pos = (485,-203);
 },
 {
 name = top;
@@ -933,11 +912,7 @@ width = 684;
 anchors = (
 {
 name = bottom;
-pos = (633,-310);
-},
-{
-name = bottom.rakaar;
-pos = (636,-60);
+pos = (636,-300);
 },
 {
 name = bottom.rvocalic;
@@ -945,7 +920,7 @@ pos = (633,-320);
 },
 {
 name = bottom.virama;
-pos = (612,-160);
+pos = (615,-310);
 },
 {
 name = top;

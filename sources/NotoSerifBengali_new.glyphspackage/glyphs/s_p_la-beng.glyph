@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = "s_p_la-beng";
 layers = (
 {
@@ -10,7 +10,7 @@ pos = (984,43);
 },
 {
 name = bottom.rakaar;
-pos = (996,69);
+pos = (996,39);
 },
 {
 name = bottom.rvocalic;
@@ -198,7 +198,7 @@ pos = (1035,0);
 },
 {
 name = bottom.rakaar;
-pos = (1037,40);
+pos = (1037,-60);
 },
 {
 name = bottom.rvocalic;
@@ -236,7 +236,7 @@ nodes = (
 (983,697,l),
 (983,541,ls),
 (983,490,o),
-(985,460,o),
+(984,460,o),
 (988,403,c),
 (991,415,l),
 (925,560,o),
@@ -281,9 +281,9 @@ nodes = (
 (364,330,o),
 (471,330,cs),
 (520,330,o),
-(546,352,o),
+(547,350,o),
 (572,371,cs),
-(596,389,o),
+(610,402,o),
 (644,418,o),
 (674,418,cs),
 (697,418,o),
@@ -361,7 +361,7 @@ nodes = (
 (818,117,o),
 (830,60,c),
 (855,52,l),
-(856,109,o),
+(855,109,o),
 (878,119,o),
 (899,119,cs),
 (938,119,o),
@@ -381,7 +381,7 @@ pos = (1231,-86);
 },
 {
 name = bottom.rakaar;
-pos = (1231,-50);
+pos = (1231,-120);
 },
 {
 name = bottom.rvocalic;
@@ -749,7 +749,7 @@ width = 1311;
 anchors = (
 {
 name = bottom;
-pos = (717,23);
+pos = (714,24);
 },
 {
 name = bottom.rakaar;
@@ -1095,7 +1095,7 @@ pos = (777,-2);
 },
 {
 name = bottom.rakaar;
-pos = (776,45);
+pos = (776,-45);
 },
 {
 name = bottom.rvocalic;
@@ -1437,7 +1437,7 @@ pos = (970,-74);
 },
 {
 name = bottom.rakaar;
-pos = (975,-46);
+pos = (975,-126);
 },
 {
 name = bottom.rvocalic;

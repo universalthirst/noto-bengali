@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = "rh_ra-beng";
 layers = (
 {
@@ -130,7 +130,7 @@ width = 524;
 anchors = (
 {
 name = bottom;
-pos = (440,-254);
+pos = (443,-267);
 },
 {
 name = bottom.rvocalic;
@@ -254,7 +254,7 @@ width = 560;
 anchors = (
 {
 name = bottom;
-pos = (530,-314);
+pos = (534,-324);
 },
 {
 name = bottom.rvocalic;
@@ -626,7 +626,7 @@ width = 437;
 anchors = (
 {
 name = bottom;
-pos = (449,-325);
+pos = (459,-330);
 },
 {
 name = bottom.rvocalic;

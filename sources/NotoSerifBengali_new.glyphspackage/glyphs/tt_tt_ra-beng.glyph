@@ -1,16 +1,12 @@
 {
-color = 9;
+color = 4;
 glyphname = "tt_tt_ra-beng";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (446,-318);
-},
-{
-name = bottom.rakaar;
-pos = (445,-160);
+pos = (437,-289);
 },
 {
 name = bottom.rvocalic;
@@ -18,7 +14,7 @@ pos = (446,-297);
 },
 {
 name = bottom.virama;
-pos = (332,-104);
+pos = (439,-299);
 },
 {
 name = top;
@@ -308,11 +304,7 @@ width = 568;
 anchors = (
 {
 name = bottom;
-pos = (464,-343);
-},
-{
-name = bottom.rakaar;
-pos = (464,-158);
+pos = (459,-322);
 },
 {
 name = bottom.rvocalic;
@@ -320,7 +312,7 @@ pos = (464,-340);
 },
 {
 name = bottom.virama;
-pos = (332,-138);
+pos = (442,-332);
 },
 {
 name = top;
@@ -486,11 +478,7 @@ width = 574;
 anchors = (
 {
 name = bottom;
-pos = (588,-447);
-},
-{
-name = bottom.rakaar;
-pos = (568,-187);
+pos = (587,-421);
 },
 {
 name = bottom.rvocalic;
@@ -498,7 +486,7 @@ pos = (588,-457);
 },
 {
 name = bottom.virama;
-pos = (423,-187);
+pos = (561,-436);
 },
 {
 name = top;
@@ -640,7 +628,7 @@ nodes = (
 (263,-414,o),
 (329,-393,o),
 (388,-393,cs),
-(425,-393,o),
+(437,-393,o),
 (473,-405,o),
 (509,-451,c),
 (577,-488,l)
@@ -653,11 +641,7 @@ width = 673;
 anchors = (
 {
 name = bottom;
-pos = (320,-309);
-},
-{
-name = bottom.rakaar;
-pos = (318,-160);
+pos = (311,-269);
 },
 {
 name = bottom.rvocalic;
@@ -665,7 +649,7 @@ pos = (320,-288);
 },
 {
 name = bottom.virama;
-pos = (235,-104);
+pos = (317,-286);
 },
 {
 name = top;
@@ -820,19 +804,15 @@ width = 405;
 anchors = (
 {
 name = bottom;
-pos = (364,-333);
-},
-{
-name = bottom.rakaar;
-pos = (358,-158);
+pos = (364,-303);
 },
 {
 name = bottom.rvocalic;
-pos = (364,-330);
+pos = (364,-320);
 },
 {
 name = bottom.virama;
-pos = (261,-138);
+pos = (343,-311);
 },
 {
 name = top;
@@ -987,11 +967,7 @@ width = 437;
 anchors = (
 {
 name = bottom;
-pos = (475,-458);
-},
-{
-name = bottom.rakaar;
-pos = (468,-187);
+pos = (475,-448);
 },
 {
 name = bottom.rvocalic;
@@ -999,7 +975,7 @@ pos = (475,-468);
 },
 {
 name = bottom.virama;
-pos = (353,-187);
+pos = (443,-457);
 },
 {
 name = top;

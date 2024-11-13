@@ -1,12 +1,12 @@
 {
-color = 9;
+color = 4;
 glyphname = "n_k_ta-beng";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (475,-155);
+pos = (483,-160);
 },
 {
 name = bottom.rakaar;
@@ -14,7 +14,7 @@ pos = (513,-251);
 },
 {
 name = bottom.rvocalic;
-pos = (432,-140);
+pos = (439,-139);
 },
 {
 name = bottom.virama;
@@ -30,7 +30,7 @@ pos = (447,602);
 },
 {
 name = vedic;
-pos = (417,-194);
+pos = (427,0);
 }
 );
 layerId = "94EB6DF8-7434-4BE0-9F23-77BCD575F5B8";
@@ -211,7 +211,7 @@ pos = (498,570);
 },
 {
 name = vedic;
-pos = (455,-185);
+pos = (455,0);
 }
 );
 layerId = "B2542900-2B87-4688-8902-A06B6D3D93DD";
@@ -376,7 +376,7 @@ pos = (634,-286);
 },
 {
 name = bottom.rvocalic;
-pos = (568,-273);
+pos = (578,-296);
 },
 {
 name = bottom.virama;
@@ -392,7 +392,7 @@ pos = (552,572);
 },
 {
 name = vedic;
-pos = (510,-210);
+pos = (510,0);
 }
 );
 layerId = "18A8C34B-6260-4854-BBF8-229863F38B25";
@@ -549,15 +549,15 @@ width = 1000;
 anchors = (
 {
 name = bottom;
-pos = (340,-130);
+pos = (340,-110);
 },
 {
 name = bottom.rakaar;
-pos = (371,-188);
+pos = (391,-199);
 },
 {
 name = bottom.rvocalic;
-pos = (320,-91);
+pos = (320,-93);
 },
 {
 name = bottom.virama;
@@ -573,7 +573,7 @@ pos = (340,602);
 },
 {
 name = vedic;
-pos = (298,-170);
+pos = (303,0);
 }
 );
 background = {
@@ -681,14 +681,14 @@ nodes = (
 (394,43,cs),
 (394,-37,o),
 (350,-67,o),
-(295,-67,cs),
-(181,-67,o),
+(305,-67,cs),
+(186,-67,o),
 (102,54,o),
 (51,320,c),
 (33,315,l),
 (86,23,o),
-(179,-92,o),
-(294,-92,cs)
+(184,-92,o),
+(304,-92,cs)
 );
 },
 {
@@ -793,7 +793,7 @@ pos = (370,-156);
 },
 {
 name = bottom.virama;
-pos = (331,-193);
+pos = (311,-173);
 },
 {
 name = top;
@@ -962,11 +962,11 @@ width = 669;
 anchors = (
 {
 name = bottom;
-pos = (495,-300);
+pos = (495,-280);
 },
 {
 name = bottom.rakaar;
-pos = (538,-218);
+pos = (538,-258);
 },
 {
 name = bottom.rvocalic;
@@ -974,7 +974,7 @@ pos = (492,-279);
 },
 {
 name = bottom.virama;
-pos = (441,-286);
+pos = (440,-259);
 },
 {
 name = top;
@@ -986,7 +986,7 @@ pos = (472,572);
 },
 {
 name = vedic;
-pos = (427,-221);
+pos = (416,0);
 }
 );
 layerId = "03D26766-37BE-4C80-9191-ECBB7A84F3C2";

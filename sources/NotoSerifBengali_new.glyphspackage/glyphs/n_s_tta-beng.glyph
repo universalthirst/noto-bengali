@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = "n_s_tta-beng";
 layers = (
 {
@@ -34,7 +34,13 @@ pos = (682,656);
 },
 {
 name = vedic;
-pos = (575,0);
+pos = (475,0);
+}
+);
+annotations = (
+{
+pos = (559,-2);
+type = Text;
 }
 );
 background = {
@@ -333,7 +339,7 @@ pos = (840,30);
 },
 {
 name = bottom.rakaar;
-pos = (890,5);
+pos = (900,5);
 },
 {
 name = bottom.rvocalic;
@@ -357,7 +363,7 @@ pos = (641,652);
 },
 {
 name = vedic;
-pos = (583,0);
+pos = (515,0);
 }
 );
 background = {
@@ -656,7 +662,7 @@ pos = (889,-19);
 },
 {
 name = bottom.rakaar;
-pos = (1009,0);
+pos = (1024,0);
 },
 {
 name = bottom.rvocalic;
@@ -680,7 +686,7 @@ pos = (740,632);
 },
 {
 name = vedic;
-pos = (616,0);
+pos = (556,0);
 }
 );
 background = {
@@ -979,7 +985,7 @@ pos = (570,61);
 },
 {
 name = bottom.rakaar;
-pos = (612,14);
+pos = (612,4);
 },
 {
 name = bottom.rvocalic;
@@ -1302,7 +1308,7 @@ pos = (636,30);
 },
 {
 name = bottom.rakaar;
-pos = (682,0);
+pos = (673,0);
 },
 {
 name = bottom.rvocalic;
@@ -1626,7 +1632,7 @@ pos = (747,-10);
 },
 {
 name = bottom.rakaar;
-pos = (831,0);
+pos = (827,0);
 },
 {
 name = bottom.rvocalic;

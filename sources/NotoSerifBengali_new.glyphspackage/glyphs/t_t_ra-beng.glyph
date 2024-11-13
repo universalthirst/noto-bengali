@@ -1,21 +1,21 @@
 {
 category = Letter;
-color = 9;
+color = 4;
 glyphname = "t_t_ra-beng";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (534,-29);
+pos = (531,-4);
 },
 {
 name = bottom.rvocalic;
-pos = (534,-8);
+pos = (538,-8);
 },
 {
 name = bottom.virama;
-pos = (535,35);
+pos = (535,5);
 },
 {
 name = top;
@@ -275,7 +275,7 @@ width = 634;
 anchors = (
 {
 name = bottom;
-pos = (622,35);
+pos = (623,25);
 },
 {
 name = bottom.rvocalic;
@@ -1281,7 +1281,7 @@ width = 555;
 anchors = (
 {
 name = bottom;
-pos = (634,-102);
+pos = (633,-104);
 },
 {
 name = bottom.rvocalic;

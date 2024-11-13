@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = "l_gha-beng";
 layers = (
 {
@@ -30,7 +30,7 @@ pos = (820,602);
 },
 {
 name = vedic;
-pos = (423,0);
+pos = (453,0);
 }
 );
 background = {
@@ -276,7 +276,7 @@ pos = (855,60);
 },
 {
 name = bottom.rvocalic;
-pos = (855,12);
+pos = (855,7);
 },
 {
 name = bottom.virama;
@@ -292,7 +292,7 @@ pos = (858,570);
 },
 {
 name = vedic;
-pos = (413,0);
+pos = (477,0);
 }
 );
 background = {
@@ -554,7 +554,7 @@ pos = (916,572);
 },
 {
 name = vedic;
-pos = (438,0);
+pos = (498,0);
 }
 );
 background = {
@@ -826,7 +826,7 @@ pos = (588,11);
 },
 {
 name = bottom.rakaar;
-pos = (594,20);
+pos = (596,20);
 },
 {
 name = bottom.rvocalic;
@@ -846,7 +846,7 @@ pos = (596,602);
 },
 {
 name = vedic;
-pos = (479,0);
+pos = (335,0);
 }
 );
 background = {
@@ -1088,7 +1088,7 @@ pos = (640,30);
 },
 {
 name = bottom.rakaar;
-pos = (648,50);
+pos = (644,50);
 },
 {
 name = bottom.rvocalic;
@@ -1108,7 +1108,7 @@ pos = (636,570);
 },
 {
 name = vedic;
-pos = (440,0);
+pos = (350,0);
 }
 );
 background = {
@@ -1350,7 +1350,7 @@ pos = (788,37);
 },
 {
 name = bottom.rakaar;
-pos = (795,40);
+pos = (792,40);
 },
 {
 name = bottom.rvocalic;
@@ -1370,7 +1370,7 @@ pos = (752,572);
 },
 {
 name = vedic;
-pos = (447,0);
+pos = (422,0);
 }
 );
 background = {

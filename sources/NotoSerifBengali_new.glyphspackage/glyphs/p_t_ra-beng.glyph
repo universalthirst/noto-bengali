@@ -1,16 +1,12 @@
 {
-color = 9;
+color = 4;
 glyphname = "p_t_ra-beng";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (638,-281);
-},
-{
-name = bottom.rakaar;
-pos = (638,-112);
+pos = (632,-261);
 },
 {
 name = bottom.rvocalic;
@@ -18,7 +14,7 @@ pos = (638,-260);
 },
 {
 name = bottom.virama;
-pos = (535,-56);
+pos = (635,-254);
 },
 {
 name = top;
@@ -175,11 +171,7 @@ width = 729;
 anchors = (
 {
 name = bottom;
-pos = (664,-300);
-},
-{
-name = bottom.rakaar;
-pos = (664,-116);
+pos = (660,-280);
 },
 {
 name = bottom.rvocalic;
@@ -187,7 +179,7 @@ pos = (664,-297);
 },
 {
 name = bottom.virama;
-pos = (532,-96);
+pos = (632,-281);
 },
 {
 name = top;
@@ -344,11 +336,7 @@ width = 718;
 anchors = (
 {
 name = bottom;
-pos = (818,-430);
-},
-{
-name = bottom.rakaar;
-pos = (818,-163);
+pos = (817,-405);
 },
 {
 name = bottom.rvocalic;
@@ -356,7 +344,7 @@ pos = (818,-440);
 },
 {
 name = bottom.virama;
-pos = (665,-163);
+pos = (786,-417);
 },
 {
 name = top;
@@ -650,11 +638,7 @@ width = 870;
 anchors = (
 {
 name = bottom;
-pos = (482,-281);
-},
-{
-name = bottom.rakaar;
-pos = (480,-112);
+pos = (474,-255);
 },
 {
 name = bottom.rvocalic;
@@ -662,7 +646,7 @@ pos = (482,-260);
 },
 {
 name = bottom.virama;
-pos = (398,-56);
+pos = (473,-260);
 },
 {
 name = top;
@@ -819,19 +803,15 @@ width = 561;
 anchors = (
 {
 name = bottom;
-pos = (505,-300);
-},
-{
-name = bottom.rakaar;
-pos = (509,-116);
+pos = (503,-265);
 },
 {
 name = bottom.rvocalic;
-pos = (505,-297);
+pos = (505,-287);
 },
 {
 name = bottom.virama;
-pos = (412,-96);
+pos = (484,-287);
 },
 {
 name = top;
@@ -957,9 +937,9 @@ nodes = (
 (396,-134,o),
 (347,-134,cs),
 (298,-134,o),
-(249,-139,o),
-(201,-139,cs),
-(150,-139,o),
+(249,-145,o),
+(201,-145,cs),
+(150,-145,o),
 (101,-131,o),
 (101,-58,cs),
 (101,-24,o),
@@ -970,9 +950,9 @@ nodes = (
 (57,-40,o),
 (57,-71,cs),
 (57,-197,o),
-(141,-222,o),
-(212,-222,cs),
-(263,-222,o),
+(141,-228,o),
+(212,-228,cs),
+(263,-228,o),
 (314,-213,o),
 (366,-213,cs),
 (422,-213,o),
@@ -988,11 +968,7 @@ width = 573;
 anchors = (
 {
 name = bottom;
-pos = (630,-437);
-},
-{
-name = bottom.rakaar;
-pos = (665,-163);
+pos = (633,-431);
 },
 {
 name = bottom.rvocalic;
@@ -1000,7 +976,7 @@ pos = (630,-447);
 },
 {
 name = bottom.virama;
-pos = (551,-163);
+pos = (604,-434);
 },
 {
 name = top;

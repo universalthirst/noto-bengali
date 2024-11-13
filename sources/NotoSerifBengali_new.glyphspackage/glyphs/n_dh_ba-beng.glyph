@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = "n_dh_ba-beng";
 layers = (
 {
@@ -762,7 +762,7 @@ pos = (429,-265);
 },
 {
 name = bottom.rakaar;
-pos = (434,-212);
+pos = (434,-202);
 },
 {
 name = bottom.rvocalic;
