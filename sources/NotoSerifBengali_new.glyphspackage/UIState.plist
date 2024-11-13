@@ -1,6 +1,13 @@
 {
 displayStrings = (
 "/tt_tta-beng/tt_tt_ra-beng/nn_tth_ra-beng/n_ta_uMatra-beng/n_k_ta-beng/b_ja-beng/n_ja-beng/d_dh_ba-beng/n_dh_ba-beng/n_sa-beng/n_s_tta-beng/p_t_ra-beng/b_ddha-beng/b_bha-beng/b_bh_ra-beng/m_ta-beng/m_tha-beng/m_da-beng/m_d_ra-beng/m_pa-beng/m_p_la-beng/m_pha-beng/m_ph_ra-beng/l_da-beng/l_ddha-beng/l_d_ra-beng/l_pha-beng/l_gha-beng/l_ph_ra-beng/l_bha-beng/n_sa-beng/l_sa-beng/sh_tta-beng/ss_tt_ra-beng/ss_tt_ba-beng/s_ka-beng/s_k_la-beng/s_pa-beng/s_p_la-beng/s_pha-beng/s_ph_ra-beng/rh_ra-beng",
-"/nn_tth_ra-beng   /nn_ttha-beng/nn_tth_ra-beng/n_ttha-beng/nn_tth_ra-beng/n_tth_ra-beng"
+"/n_s_tta-beng/tt_tt_ra-beng/sh_tta-beng/ss_tt_ba-beng/nn_tth_ra-beng/n_tth_ra-beng 
+
+/iMatra-beng.short/rh_ra-beng 
+/iMatra-beng.wide1/t_t_ra-beng/s_k_la-beng/l_bha-beng/l_d_ra-beng/l_ddha-beng/m_tha-beng/p_t_ra-beng/n_k_ta-beng 
+/iMatra-beng.wide2/m_ph_ra-beng/n_ja-beng/nn_ddh_ra-beng 
+/iMatra-beng.wide3/s_ph_ra-beng/l_sa-beng/l_ph_ra-beng/l_gha-beng 
+/iMatra-beng.wide4/s_p_la-beng/m_p_la-beng/ng_k_ss_ra-beng",
+"ি/iMatra-beng.short/iMatra-beng.wide1/iMatra-beng.wide2/iMatra-beng.wide3/iMatra-beng.wide4"
 );
 }
