@@ -572,7 +572,6 @@ name = vedic;
 pos = (326,0);
 }
 );
-color = 0;
 layerId = "33F2F8B2-CCE7-4937-A852-9C044B0330C5";
 shapes = (
 {

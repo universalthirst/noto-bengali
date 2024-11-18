@@ -18,11 +18,13 @@ code = "ka-beng kha-beng ga-beng gha-beng nga-beng ca-beng cha-beng ja-beng nya-
 name = BENG_imatraBases;
 },
 {
-code = "a-beng aa-beng i-beng ii-beng u-beng uu-beng rVocalic-beng rrVocalic-beng lVocalic-beng llVocalic-beng e-beng ai-beng o-beng au-beng ka-beng kha-beng ga-beng gha-beng nga-beng ca-beng cha-beng ja-beng jha-beng nya-beng tta-beng ttha-beng dda-beng ddha-beng nna-beng ta-beng tha-beng da-beng dha-beng na-beng pa-beng pha-beng ba-beng bha-beng ma-beng ya-beng ra-beng la-beng sha-beng ssa-beng sa-beng ha-beng rra-beng rha-beng yya-beng avagraha-beng taKhanda-beng aaMatra-beng aaMatra-beng.fina iMatra-beng iMatra-beng.short iMatra-beng.wide1 iMatra-beng.wide2 iMatra-beng.wide3 iMatra-beng.wide4 iMatra_candrabindu-beng iMatra_reph-beng iiMatra-beng iiMatra_reph-beng iiMatra_reph_candrabindu-beng iiMatra-beng.fina auLength-beng auLength-beng.fina eMatra-beng eMatra-beng.init aiMatra-beng aiMatra-beng.init oMatra-beng auMatra-beng anusvara-beng visarga-beng ya-beng.pstf zero-beng one-beng two-beng three-beng four-beng five-beng six-beng seven-beng eight-beng nine-beng oneNumr-beng twoNumr-beng threeNumr-beng fourNumr-beng oneLessNumr-beng sixteenDnom-beng anji-beng rupeemark-beng rupee-beng isshar-beng ganda-beng k_ka-beng k_ra-beng k_tta-beng k_tt_ra-beng k_ta-beng k_t_ba-beng k_t_ra-beng k_na-beng k_ba-beng k_ma-beng k_la-beng k_ssa-beng k_ss_ba-beng k_ss_ra-beng k_ss_nna-beng k_ss_ma-beng k_sa-beng kh_ba-beng kh_ra-beng g_ba-beng g_ra-beng g_ra_uMatra-beng g_ra_uuMatra-beng g_ga-beng g_da-beng g_dha-beng g_na-beng g_ma-beng g_la-beng ga_uMatra-beng gh_ba-beng gh_ra-beng gh_na-beng gh_la-beng ng_ba-beng ng_ra-beng ng_ka-beng ng_k_ra-beng ng_k_ssa-beng ng_kha-beng ng_ga-beng ng_gha-beng ng_ma-beng c_ba-beng c_ra-beng c_ca-beng c_cha-beng c_ch_ba-beng c_ch_ra-beng c_nya-beng c_na-beng ch_ba-beng ch_ra-beng j_ba-beng j_ra-beng j_ja-beng j_jha-beng j_nya-beng j_ny_ba-beng j_ny_ra-beng j_j_ba-beng jh_ba-beng jh_ra-beng ny_ba-beng ny_ra-beng ny_ca-beng ny_cha-beng ny_ja-beng ny_jha-beng tt_ba-beng tt_ra-beng tt_tta-beng tt_ma-beng tth_ba-beng tth_ra-beng dd_ba-beng dd_ra-beng dd_ga-beng dd_dda-beng dd_ma-beng ddh_ba-beng ddh_ra-beng nn_ba-beng nn_ra-beng nn_tta-beng nn_tt_ra-beng nn_ttha-beng nn_dda-beng nn_dd_ra-beng nn_ddha-beng nn_nna-beng nn_na-beng nn_ma-beng t_ba-beng t_ra-beng t_ra_uMatra-beng t_ra_uuMatra-beng t_ta-beng t_t_ba-beng t_tha-beng t_na-beng t_ma-beng t_la-beng th_ba-beng th_ra-beng th_ra_uMatra-beng th_ra_uuMatra-beng d_ba-beng d_ra-beng d_ra_uMatra-beng d_ra_uuMatra-beng d_ga-beng d_gha-beng d_da-beng d_d_ba-beng d_dha-beng d_dh_ba-beng d_na-beng d_bha-beng d_bh_ra-beng d_ma-beng dh_ba-beng dh_ra-beng dh_ra_uMatra-beng dh_ra_uuMatra-beng dh_na-beng dh_ma-beng n_ba-beng n_ra-beng n_tta-beng n_tt_ra-beng n_ttha-beng n_d_ba-beng n_d_ra-beng n_dda-beng n_dd_ra-beng n_ta-beng n_ta_uMatra-beng n_t_ba-beng n_t_ra-beng n_tha-beng n_th_ra-beng n_da-beng n_dha-beng n_dh_ra-beng n_na-beng n_ma-beng n_sa-beng p_ba-beng p_ra-beng p_ra_uMatra-beng p_ra_uuMatra-beng p_tta-beng p_ta-beng p_ta_uMatra-beng p_na-beng p_pa-beng p_ma-beng p_la-beng p_sa-beng ph_ba-beng ph_ra-beng ph_tta-beng ph_la-beng b_ba-beng b_ra-beng b_ra_uMatra-beng b_ra_uuMatra-beng b_ja-beng b_da-beng b_d_ra-beng b_dha-beng b_bha-beng b_la-beng bh_ba-beng bh_ra-beng bh_ra_uMatra-beng bh_ra_uuMatra-beng bh_la-beng m_ba-beng m_b_ra-beng m_ra-beng m_ta-beng m_da-beng m_na-beng m_pa-beng m_pha-beng m_bha-beng m_bh_ra-beng m_ma-beng m_la-beng m_sa-beng m_p_ra-beng y_ba-beng y_ra-beng ra_uMatra-beng ra_uuMatra-beng l_ba-beng l_ra-beng l_ka-beng l_ga-beng l_ga_uMatra-beng l_tta-beng l_tt_ra-beng l_dda-beng l_dd_ra-beng l_ta-beng l_da-beng l_dha-beng l_pa-beng l_pha-beng l_ma-beng l_la-beng sh_ba-beng sh_ra-beng sh_ra_uMatra-beng sh_ra_uuMatra-beng sh_ca-beng sh_cha-beng sh_ta-beng sh_na-beng sh_ma-beng sh_la-beng sha_uMatra-beng ss_ba-beng ss_ra-beng ss_ka-beng ss_k_ra-beng ss_tta-beng ss_tt_ra-beng ss_ttha-beng ss_nna-beng ss_pa-beng ss_pha-beng ss_ma-beng s_ba-beng s_ra-beng s_ra_uMatra-beng s_ra_uuMatra-beng s_ka-beng s_k_ra-beng s_kha-beng s_tta-beng s_tt_ra-beng s_ta-beng s_ta_uMatra-beng s_t_ba-beng s_t_ra-beng s_tha-beng s_na-beng s_pa-beng s_p_ra-beng s_pha-beng s_ma-beng s_la-beng s_la_uMatra-beng h_ba-beng h_ra-beng h_nna-beng h_na-beng h_ma-beng h_la-beng ha_uMatra-beng ha_rVocalicMatra-beng ramiddlediagonal-beng ramiddlediagonalhalf_ba-beng ramiddlediagonalhalf_ra-beng ralowerdiagonal-beng ralowerdiagonalhalf_ba-beng ralowerdiagonalhalf_ra-beng ramiddlediagonal_uMatra-beng ramiddlediagonal_uuMatra-beng tta_iMatra-beng tt_ba_iMatra-beng tt_ra_iMatra-beng tt_tta_iMatra-beng tt_ma_iMatra-beng k_tta_iMatra-beng ss_tta_iMatra-beng k_tt_ra_iMatra-beng ss_tt_ra_iMatra-beng tta_iiMatra-beng tt_ba_iiMatra-beng tt_ra_iiMatra-beng tt_tta_iiMatra-beng tt_ma_iiMatra-beng nn_tta_iiMatra-beng nn_tt_ra_iiMatra-beng n_tta_iiMatra-beng n_tt_ra_iiMatra-beng p_tta_iiMatra-beng l_tta_iiMatra-beng l_tt_ra_iiMatra-beng s_tta_iiMatra-beng s_tt_ra_iiMatra-beng ttha_iiMatra-beng tth_ba_iiMatra-beng tth_ra_iiMatra-beng nn_ttha_iiMatra-beng n_ttha_iiMatra-beng ph_tta_iiMatra-beng ss_tta_iiMatra-beng ss_tt_ra_iiMatra-beng ss_ttha_iiMatra-beng k_tta_iiMatra-beng k_tt_ra_iiMatra-beng tta_auLength-beng tt_ba_auLength-beng tt_ra_auLength-beng tt_tta_auLength-beng nn_tta_auLength-beng nn_tt_ra_auLength-beng n_tta_auLength-beng n_tt_ra_auLength-beng p_tta_auLength-beng l_tta_auLength-beng l_tt_ra_auLength-beng s_tta_auLength-beng s_tt_ra_auLength-beng ph_tta_auLength-beng ss_tta_auLength-beng ss_tt_ra_auLength-beng k_tta_auLength-beng k_tt_ra_auLength-beng k-beng kh-beng g-beng gh-beng ng-beng c-beng ch-beng j-beng jh-beng ny-beng tt-beng tth-beng dd-beng ddh-beng nn-beng t-beng th-beng d-beng dh-beng n-beng p-beng ph-beng b-beng bh-beng m-beng y-beng r-beng l-beng sh-beng ss-beng s-beng h-beng ramiddlediagonalhalf-beng ralowerdiagonalhalf-beng k_ss-beng j_ny-beng k-beng.nukt kh-beng.nukt g-beng.nukt gh-beng.nukt ng-beng.nukt c-beng.nukt ch-beng.nukt j-beng.nukt jh-beng.nukt ny-beng.nukt tt-beng.nukt tth-beng.nukt dd-beng.nukt ddh-beng.nukt nn-beng.nukt t-beng.nukt th-beng.nukt d-beng.nukt dh-beng.nukt n-beng.nukt p-beng.nukt ph-beng.nukt bh-beng.nukt m-beng.nukt y-beng.nukt l-beng.nukt sh-beng.nukt ss-beng.nukt s-beng.nukt h-beng.nukt ramiddlediagonalhalf-beng.nukt ralowerdiagonalhalf-beng.nukt ka-beng.nukt kha-beng.nukt ga-beng.nukt gha-beng.nukt nga-beng.nukt ca-beng.nukt cha-beng.nukt ja-beng.nukt jha-beng.nukt nya-beng.nukt tta-beng.nukt ttha-beng.nukt nna-beng.nukt ta-beng.nukt tha-beng.nukt da-beng.nukt dha-beng.nukt na-beng.nukt pa-beng.nukt pha-beng.nukt bha-beng.nukt ma-beng.nukt la-beng.nukt sha-beng.nukt ssa-beng.nukt sa-beng.nukt ha-beng.nukt ddNukta_ba-beng ddNukta_ra-beng ddNukta_ga-beng ddhNukta_ba-beng ddhNukta_ra-beng yNukta_ba-beng yNukta_ra-beng ramiddlediagonal-beng.nukt ralowerdiagonal-beng.nukt n_tt_iMatra-beng n_tt_ra_iMatra-beng k_wa-beng g_wa-beng t_t_wa-beng t_wa-beng d_wa-beng m_wa-beng s_t_wa-beng s_wa-beng";
+code = "a-beng aa-beng i-beng ii-beng u-beng uu-beng rVocalic-beng rrVocalic-beng lVocalic-beng llVocalic-beng e-beng ai-beng o-beng au-beng ka-beng kha-beng ga-beng gha-beng nga-beng ca-beng cha-beng ja-beng jha-beng nya-beng tta-beng ttha-beng dda-beng ddha-beng nna-beng ta-beng tha-beng da-beng dha-beng na-beng pa-beng pha-beng ba-beng bha-beng ma-beng ya-beng ra-beng la-beng sha-beng ssa-beng sa-beng ha-beng rra-beng rha-beng yya-beng avagraha-beng taKhanda-beng aaMatra-beng aaMatra-beng.fina iMatra-beng iMatra-beng.short iMatra-beng.wide1 iMatra-beng.wide2 iMatra-beng.wide3 iMatra-beng.wide4 iMatra_candrabindu-beng iMatra_reph-beng iiMatra-beng iiMatra_reph-beng iiMatra_reph_candrabindu-beng iiMatra-beng.fina auLength-beng auLength-beng.fina eMatra-beng eMatra-beng.init aiMatra-beng aiMatra-beng.init oMatra-beng auMatra-beng anusvara-beng visarga-beng ya-beng.pstf zero-beng one-beng two-beng three-beng four-beng five-beng six-beng seven-beng eight-beng nine-beng oneNumr-beng twoNumr-beng threeNumr-beng fourNumr-beng oneLessNumr-beng sixteenDnom-beng anji-beng rupeemark-beng rupee-beng isshar-beng ganda-beng k_ka-beng k_ra-beng k_tta-beng k_tt_ra-beng k_ta-beng k_t_ba-beng k_t_ra-beng k_na-beng k_ba-beng k_ma-beng k_la-beng k_ssa-beng k_ss_ba-beng k_ss_ra-beng k_ss_nna-beng k_ss_ma-beng k_sa-beng kh_ba-beng kh_ra-beng g_ba-beng g_ra-beng g_ra_uMatra-beng g_ra_uuMatra-beng g_ga-beng g_da-beng g_dha-beng g_na-beng g_ma-beng g_la-beng ga_uMatra-beng gh_ba-beng gh_ra-beng gh_na-beng gh_la-beng ng_ba-beng ng_ra-beng ng_ka-beng ng_k_ra-beng ng_k_ssa-beng ng_kha-beng ng_ga-beng ng_gha-beng ng_ma-beng c_ba-beng c_ra-beng c_ca-beng c_cha-beng c_ch_ba-beng c_ch_ra-beng c_nya-beng c_na-beng ch_ba-beng ch_ra-beng j_ba-beng j_ra-beng j_ja-beng j_jha-beng j_nya-beng j_ny_ba-beng j_ny_ra-beng j_j_ba-beng jh_ba-beng jh_ra-beng ny_ba-beng ny_ra-beng ny_ca-beng ny_cha-beng ny_ja-beng ny_jha-beng tt_ba-beng tt_ra-beng tt_tta-beng tt_ma-beng tth_ba-beng tth_ra-beng dd_ba-beng dd_ra-beng dd_ga-beng dd_dda-beng dd_ma-beng ddh_ba-beng ddh_ra-beng nn_ba-beng nn_ra-beng nn_tta-beng nn_tt_ra-beng nn_ttha-beng nn_dda-beng nn_dd_ra-beng nn_ddha-beng nn_nna-beng nn_na-beng nn_ma-beng t_ba-beng t_ra-beng t_ra_uMatra-beng t_ra_uuMatra-beng t_ta-beng t_t_ba-beng t_tha-beng t_na-beng t_ma-beng t_la-beng th_ba-beng th_ra-beng th_ra_uMatra-beng th_ra_uuMatra-beng d_ba-beng d_ra-beng d_ra_uMatra-beng d_ra_uuMatra-beng d_ga-beng d_gha-beng d_da-beng d_d_ba-beng d_dha-beng d_dh_ba-beng d_na-beng d_bha-beng d_bh_ra-beng d_ma-beng dh_ba-beng dh_ra-beng dh_ra_uMatra-beng dh_ra_uuMatra-beng dh_na-beng dh_ma-beng n_ba-beng n_ra-beng n_tta-beng n_tt_ra-beng n_ttha-beng n_d_ba-beng n_d_ra-beng n_dda-beng n_dd_ra-beng n_ta-beng n_ta_uMatra-beng n_t_ba-beng n_t_ra-beng n_tha-beng n_th_ra-beng n_da-beng n_dha-beng n_dh_ra-beng n_na-beng n_ma-beng n_sa-beng p_ba-beng p_ra-beng p_ra_uMatra-beng p_ra_uuMatra-beng p_tta-beng p_ta-beng p_ta_uMatra-beng p_na-beng p_pa-beng p_ma-beng p_la-beng p_sa-beng ph_ba-beng ph_ra-beng ph_tta-beng ph_la-beng b_ba-beng b_ra-beng b_ra_uMatra-beng b_ra_uuMatra-beng b_ja-beng b_da-beng b_d_ra-beng b_dha-beng b_bha-beng b_la-beng bh_ba-beng bh_ra-beng bh_ra_uMatra-beng bh_ra_uuMatra-beng bh_la-beng m_ba-beng m_b_ra-beng m_ra-beng m_ta-beng m_da-beng m_na-beng m_pa-beng m_pha-beng m_bha-beng m_bh_ra-beng m_ma-beng m_la-beng m_sa-beng m_p_ra-beng y_ba-beng y_ra-beng ra_uMatra-beng ra_uuMatra-beng l_ba-beng l_ra-beng l_ka-beng l_ga-beng l_ga_uMatra-beng l_tta-beng l_tt_ra-beng l_dda-beng l_dd_ra-beng l_ta-beng l_da-beng l_dha-beng l_pa-beng l_pha-beng l_ma-beng l_la-beng sh_ba-beng sh_ra-beng sh_ra_uMatra-beng sh_ra_uuMatra-beng sh_ca-beng sh_cha-beng sh_ta-beng sh_na-beng sh_ma-beng sh_la-beng sha_uMatra-beng ss_ba-beng ss_ra-beng ss_ka-beng ss_k_ra-beng ss_tta-beng ss_tt_ra-beng ss_ttha-beng ss_nna-beng ss_pa-beng ss_pha-beng ss_ma-beng s_ba-beng s_ra-beng s_ra_uMatra-beng s_ra_uuMatra-beng s_ka-beng s_k_ra-beng s_kha-beng s_tta-beng s_tt_ra-beng s_ta-beng s_ta_uMatra-beng s_t_ba-beng s_t_ra-beng s_tha-beng s_na-beng s_pa-beng s_p_ra-beng s_pha-beng s_ma-beng s_la-beng s_la_uMatra-beng h_ba-beng h_ra-beng h_nna-beng h_na-beng h_ma-beng h_la-beng ha_uMatra-beng ha_rVocalicMatra-beng ramiddlediagonal-beng ramiddlediagonalhalf_ba-beng ramiddlediagonalhalf_ra-beng ralowerdiagonal-beng ralowerdiagonalhalf_ba-beng ralowerdiagonalhalf_ra-beng ramiddlediagonal_uMatra-beng ramiddlediagonal_uuMatra-beng tta_iMatra-beng tt_ba_iMatra-beng tt_ra_iMatra-beng tt_tta_iMatra-beng tt_ma_iMatra-beng k_tta_iMatra-beng ss_tta_iMatra-beng k_tt_ra_iMatra-beng ss_tt_ra_iMatra-beng tta_iiMatra-beng tt_ba_iiMatra-beng tt_ra_iiMatra-beng tt_tta_iiMatra-beng tt_ma_iiMatra-beng nn_tta_iiMatra-beng nn_tt_ra_iiMatra-beng n_tta_iiMatra-beng n_tt_ra_iiMatra-beng p_tta_iiMatra-beng l_tta_iiMatra-beng l_tt_ra_iiMatra-beng s_tta_iiMatra-beng s_tt_ra_iiMatra-beng ttha_iiMatra-beng tth_ba_iiMatra-beng tth_ra_iiMatra-beng nn_ttha_iiMatra-beng n_ttha_iiMatra-beng ph_tta_iiMatra-beng ss_tta_iiMatra-beng ss_tt_ra_iiMatra-beng ss_ttha_iiMatra-beng k_tta_iiMatra-beng k_tt_ra_iiMatra-beng tta_auLength-beng tt_ba_auLength-beng tt_ra_auLength-beng tt_tta_auLength-beng nn_tta_auLength-beng nn_tt_ra_auLength-beng n_tta_auLength-beng n_tt_ra_auLength-beng p_tta_auLength-beng l_tta_auLength-beng l_tt_ra_auLength-beng s_tta_auLength-beng s_tt_ra_auLength-beng ph_tta_auLength-beng ss_tta_auLength-beng ss_tt_ra_auLength-beng k_tta_auLength-beng k_tt_ra_auLength-beng k-beng kh-beng g-beng gh-beng ng-beng c-beng ch-beng j-beng jh-beng ny-beng tt-beng tth-beng dd-beng ddh-beng nn-beng t-beng th-beng d-beng dh-beng n-beng p-beng ph-beng b-beng bh-beng m-beng y-beng r-beng l-beng sh-beng ss-beng s-beng h-beng ramiddlediagonalhalf-beng ralowerdiagonalhalf-beng k_ss-beng j_ny-beng k-beng.nukt kh-beng.nukt g-beng.nukt gh-beng.nukt ng-beng.nukt c-beng.nukt ch-beng.nukt j-beng.nukt jh-beng.nukt ny-beng.nukt tt-beng.nukt tth-beng.nukt dd-beng.nukt ddh-beng.nukt nn-beng.nukt t-beng.nukt th-beng.nukt d-beng.nukt dh-beng.nukt n-beng.nukt p-beng.nukt ph-beng.nukt bh-beng.nukt m-beng.nukt y-beng.nukt l-beng.nukt sh-beng.nukt ss-beng.nukt s-beng.nukt h-beng.nukt ramiddlediagonalhalf-beng.nukt ralowerdiagonalhalf-beng.nukt ka-beng.nukt kha-beng.nukt ga-beng.nukt gha-beng.nukt nga-beng.nukt ca-beng.nukt cha-beng.nukt ja-beng.nukt jha-beng.nukt nya-beng.nukt tta-beng.nukt ttha-beng.nukt nna-beng.nukt ta-beng.nukt tha-beng.nukt da-beng.nukt dha-beng.nukt na-beng.nukt pa-beng.nukt pha-beng.nukt bha-beng.nukt ma-beng.nukt la-beng.nukt sha-beng.nukt ssa-beng.nukt sa-beng.nukt ha-beng.nukt ddNukta_ba-beng ddNukta_ra-beng ddNukta_ga-beng ddhNukta_ba-beng ddhNukta_ra-beng yNukta_ba-beng yNukta_ra-beng ramiddlediagonal-beng.nukt ralowerdiagonal-beng.nukt n_tta_iMatra-beng n_tt_ra_iMatra-beng k_wa-beng g_wa-beng t_t_wa-beng t_wa-beng d_wa-beng m_wa-beng s_t_wa-beng s_wa-beng
+";
 name = BENG_allSpacingGlyphs_RCLT;
 },
 {
-code = "nna-beng da-beng na-beng pa-beng la-beng rra-beng rha-beng sa-beng k_sa-beng d_ga-beng dd_ga-beng n_sa-beng p_sa-beng m_pa-beng m_sa-beng ss_pa-beng s_pa-beng ddNukta_ga-beng";
+code = "nna-beng da-beng na-beng pa-beng la-beng rra-beng rha-beng sa-beng k_sa-beng d_ga-beng dd_ga-beng n_sa-beng p_sa-beng m_pa-beng m_sa-beng ss_pa-beng s_pa-beng ddNukta_ga-beng l_sa-beng n_ja-beng 
+";
 name = BENG_allUMatraVariantBases;
 }
 );
@@ -92,9 +94,11 @@ asterisk,
 "b-beng",
 "b_ba-beng",
 "b_bha-beng",
+"b_bh_ra-beng",
 "b_d_ra-beng",
 "b_da-beng",
 "b_dha-beng",
+"b_ddha-beng",
 "b_ja-beng",
 "b_la-beng",
 "b_ra-beng",
@@ -213,6 +217,7 @@ four,
 "g_ga-beng",
 "g_la-beng",
 "g_ma-beng",
+"g_nna-beng",
 "g_na-beng",
 "g_ra-beng",
 "g_ra_uMatra-beng",
@@ -319,24 +324,32 @@ hyphen,
 "lVocalic-beng",
 "lVocalicMatra-beng",
 "l_ba-beng",
+"l_bha-beng",
 "l_da-beng",
+"l_d_ra-beng",
 "l_dd_ra-beng",
 "l_dda-beng",
 "l_dha-beng",
+"l_ddha-beng",
 "l_ga-beng",
 "l_ga_uMatra-beng",
+"l_gha-beng",
 "l_ka-beng",
 "l_la-beng",
 "l_ma-beng",
 "l_pa-beng",
 "l_pha-beng",
+"l_ph_ra-beng",
 "l_ra-beng",
+"l_sa-beng",
 "l_ta-beng",
 "l_tt_ra-beng",
 "l_tt_ra_auLength-beng",
+"l_tt_ra_iMatra-beng",
 "l_tt_ra_iiMatra-beng",
 "l_tta-beng",
 "l_tta_auLength-beng",
+"l_tta_iMatra-beng",
 "l_tta_iiMatra-beng",
 "la-beng",
 "la-beng.nukt",
@@ -350,15 +363,19 @@ less,
 "m_bh_ra-beng",
 "m_bha-beng",
 "m_da-beng",
+"m_d_ra-beng",
 "m_la-beng",
 "m_ma-beng",
 "m_na-beng",
 "m_p_ra-beng",
 "m_pa-beng",
+"m_p_la-beng",
 "m_pha-beng",
+"m_ph_ra-beng",
 "m_ra-beng",
 "m_sa-beng",
 "m_ta-beng",
+"m_tha-beng",
 "m_wa-beng",
 "ma-beng",
 "ma-beng.nukt",
@@ -372,12 +389,20 @@ multiply,
 "n_da-beng",
 "n_dd_ra-beng",
 "n_dda-beng",
+"n_ddha-beng",
 "n_dh_ra-beng",
 "n_dha-beng",
+"n_dh_ba-beng",
+"n_ja-beng",
+"n_k_ta-beng",
 "n_ma-beng",
 "n_na-beng",
 "n_ra-beng",
 "n_sa-beng",
+"n_s_tta-beng",
+"n_s_tta_auLength-beng",
+"n_s_tta_iMatra-beng",
+"n_s_tta_iiMatra-beng",
 "n_t_ba-beng",
 "n_t_ra-beng",
 "n_ta-beng",
@@ -391,9 +416,12 @@ multiply,
 "n_tt_ra_iiMatra-beng",
 "n_tta-beng",
 "n_tta_auLength-beng",
+"n_tta_iMatra-beng",
 "n_tta_iiMatra-beng",
 "n_ttha-beng",
 "n_ttha_iiMatra-beng",
+"n_tth_ra-beng",
+"n_tth_ra_iiMatra-beng",
 "na-beng",
 "na-beng.nukt",
 nbspace,
@@ -404,6 +432,7 @@ nbspace,
 "ng_gha-beng",
 "ng_k_ra-beng",
 "ng_k_ssa-beng",
+"ng_k_ss_ra-beng",
 "ng_ka-beng",
 "ng_kha-beng",
 "ng_ma-beng",
@@ -418,18 +447,23 @@ nine,
 "nn_dd_ra-beng",
 "nn_dda-beng",
 "nn_ddha-beng",
+"nn_ddh_ra-beng",
 "nn_ma-beng",
 "nn_na-beng",
 "nn_nna-beng",
 "nn_ra-beng",
 "nn_tt_ra-beng",
 "nn_tt_ra_auLength-beng",
+"nn_tt_ra_iMatra-beng",
 "nn_tt_ra_iiMatra-beng",
 "nn_tta-beng",
 "nn_tta_auLength-beng",
+"nn_tta_iMatra-beng",
 "nn_tta_iiMatra-beng",
 "nn_ttha-beng",
 "nn_ttha_iiMatra-beng",
+"nn_tth_ra-beng",
+"nn_tth_ra_iiMatra-beng",
 "nna-beng",
 "nna-beng.nukt",
 "nukta-beng",
@@ -438,6 +472,7 @@ numbersign,
 "ny-beng.nukt",
 "ny_ba-beng",
 "ny_ca-beng",
+"ny_c_ba-beng",
 "ny_cha-beng",
 "ny_ja-beng",
 "ny_jha-beng",
@@ -463,8 +498,10 @@ one,
 "p_sa-beng",
 "p_ta-beng",
 "p_ta_uMatra-beng",
+"p_t_ra-beng",
 "p_tta-beng",
 "p_tta_auLength-beng",
+"p_tta_iMatra-beng",
 "p_tta_iiMatra-beng",
 "pa-beng",
 "pa-beng.nukt",
@@ -479,6 +516,7 @@ period,
 "ph_ra-beng",
 "ph_tta-beng",
 "ph_tta_auLength-beng",
+"ph_tta_iMatra-beng",
 "ph_tta_iiMatra-beng",
 "pha-beng",
 "pha-beng.nukt",
@@ -514,6 +552,7 @@ quotesingle,
 "reph-beng",
 "reph_candrabindu-beng",
 "rha-beng",
+"rh_ra-beng",
 "rrVocalic-beng",
 "rrVocalicMatra-beng",
 "rra-beng",
@@ -524,6 +563,7 @@ rupeeIndian,
 "s-beng.nukt",
 "s_ba-beng",
 "s_k_ra-beng",
+"s_k_la-beng",
 "s_ka-beng",
 "s_kha-beng",
 "s_la-beng",
@@ -532,7 +572,9 @@ rupeeIndian,
 "s_na-beng",
 "s_p_ra-beng",
 "s_pa-beng",
+"s_p_la-beng",
 "s_pha-beng",
+"s_ph_ra-beng",
 "s_ra-beng",
 "s_ra_uMatra-beng",
 "s_ra_uuMatra-beng",
@@ -544,9 +586,11 @@ rupeeIndian,
 "s_tha-beng",
 "s_tt_ra-beng",
 "s_tt_ra_auLength-beng",
+"s_tt_ra_iMatra-beng",
 "s_tt_ra_iiMatra-beng",
 "s_tta-beng",
 "s_tta_auLength-beng",
+"s_tta_iMatra-beng",
 "s_tta_iiMatra-beng",
 "s_wa-beng",
 "sa-beng",
@@ -566,6 +610,10 @@ seven,
 "sh_ra_uMatra-beng",
 "sh_ra_uuMatra-beng",
 "sh_ta-beng",
+"sh_tta-beng",
+"sh_tta_auLength-beng",
+"sh_tta_iMatra-beng",
+"sh_tta_iiMatra-beng",
 "sha-beng",
 "sha-beng.nukt",
 "sha_uMatra-beng",
@@ -592,6 +640,10 @@ space,
 "ss_tta_auLength-beng",
 "ss_tta_iMatra-beng",
 "ss_tta_iiMatra-beng",
+"ss_tt_ba-beng",
+"ss_tt_ba_auLength-beng",
+"ss_tt_ba_iMatra-beng",
+"ss_tt_ba_iiMatra-beng",
 "ss_ttha-beng",
 "ss_ttha_iiMatra-beng",
 "ssa-beng",
@@ -605,10 +657,12 @@ space,
 "t_ra-beng",
 "t_ra_uMatra-beng",
 "t_ra_uuMatra-beng",
+"t_t_ra-beng",
 "t_t_ba-beng",
 "t_t_wa-beng",
 "t_ta-beng",
 "t_tha-beng",
+"t_th_ra-beng",
 "t_wa-beng",
 "ta-beng",
 "ta-beng.nukt",
@@ -641,6 +695,10 @@ three,
 "tt_tta_auLength-beng",
 "tt_tta_iMatra-beng",
 "tt_tta_iiMatra-beng",
+"tt_tt_ra-beng",
+"tt_tt_ra_auLength-beng",
+"tt_tt_ra_iMatra-beng",
+"tt_tt_ra_iiMatra-beng",
 "tta-beng",
 "tta-beng.nukt",
 "tta_auLength-beng",
@@ -781,6 +839,7 @@ lookup splitStack {
 	sub p_ra_uuMatra-beng by p_ra_uuMatra-beng uni1CF6.stack ;
 	sub p_tta-beng by p_tta-beng uni1CF6.steck ;
 	sub p_ta-beng by p_ta-beng uni1CF6.stack ;
+	sub p_t_ra-beng by p_t_ra-beng uni1CF6.stack ;
 	sub p_ta_uMatra-beng by p_ta_uMatra-beng uni1CF6.stack ;
 	sub p_na-beng by p_na-beng uni1CF6.stack ;
 	sub p_pa-beng by p_pa-beng uni1CF6.stack ;
@@ -813,11 +872,12 @@ name = Independentlookups;
 code = "table GDEF {
   # automatic
   GlyphClassDef
-    [a-beng aa-beng i-beng ii-beng u-beng uu-beng rVocalic-beng rrVocalic-beng lVocalic-beng llVocalic-beng e-beng ai-beng o-beng au-beng ka-beng kha-beng ga-beng gha-beng nga-beng ca-beng cha-beng ja-beng jha-beng nya-beng tta-beng ttha-beng dda-beng ddha-beng nna-beng ta-beng tha-beng da-beng dha-beng na-beng pa-beng pha-beng ba-beng bha-beng ma-beng ya-beng ra-beng la-beng sha-beng ssa-beng sa-beng ha-beng rra-beng rha-beng yya-beng avagraha-beng taKhanda-beng aaMatra-beng aaMatra-beng.fina iMatra-beng iMatra-beng.short iMatra-beng.wide1 iMatra-beng.wide2 iMatra-beng.wide3 iMatra-beng.wide4 iMatra_candrabindu-beng iMatra_reph-beng iiMatra-beng iiMatra_reph-beng iiMatra_reph_candrabindu-beng iiMatra-beng.fina auLength-beng auLength-beng.fina oMatra-beng auMatra-beng anusvara-beng visarga-beng ya-beng.pstf anji-beng uni09FC k_ka-beng k_ra-beng k_tta-beng k_tt_ra-beng k_ta-beng k_t_ba-beng k_t_ra-beng k_na-beng k_ba-beng k_ma-beng k_la-beng k_ssa-beng k_ss_ba-beng k_ss_ra-beng k_ss_nna-beng k_ss_ma-beng k_sa-beng kh_ba-beng kh_ra-beng g_ba-beng g_ra-beng g_ra_uMatra-beng g_ra_uuMatra-beng g_ga-beng g_da-beng g_dha-beng g_na-beng g_ma-beng g_la-beng ga_uMatra-beng gh_ba-beng gh_ra-beng gh_na-beng gh_la-beng ng_ba-beng ng_ra-beng ng_ka-beng ng_k_ra-beng ng_k_ssa-beng ng_kha-beng ng_ga-beng ng_gha-beng ng_ma-beng c_ba-beng c_ra-beng c_ca-beng c_cha-beng c_ch_ba-beng c_ch_ra-beng c_nya-beng c_na-beng ch_ba-beng ch_ra-beng j_ba-beng j_ra-beng j_ja-beng j_jha-beng j_nya-beng j_ny_ba-beng j_ny_ra-beng j_j_ba-beng jh_ba-beng jh_ra-beng ny_ba-beng ny_ra-beng ny_ca-beng ny_cha-beng ny_ja-beng ny_jha-beng tt_ba-beng tt_ra-beng tt_tta-beng tt_ma-beng tth_ba-beng tth_ra-beng dd_ba-beng dd_ra-beng dd_ga-beng dd_dda-beng dd_ma-beng ddh_ba-beng ddh_ra-beng nn_ba-beng nn_ra-beng nn_tta-beng nn_tt_ra-beng nn_ttha-beng nn_dda-beng nn_dd_ra-beng nn_ddha-beng nn_nna-beng nn_na-beng nn_ma-beng t_ba-beng t_ra-beng t_ra_uMatra-beng t_ra_uuMatra-beng t_ta-beng t_t_ba-beng t_tha-beng t_na-beng t_ma-beng t_la-beng th_ba-beng th_ra-beng th_ra_uMatra-beng th_ra_uuMatra-beng d_ba-beng d_ra-beng d_ra_uMatra-beng d_ra_uuMatra-beng d_ga-beng d_gha-beng d_da-beng d_d_ba-beng d_dha-beng d_dh_ba-beng d_na-beng d_bha-beng d_bh_ra-beng d_ma-beng dh_ba-beng dh_ra-beng dh_ra_uMatra-beng dh_ra_uuMatra-beng dh_na-beng dh_ma-beng n_ba-beng n_ra-beng n_tta-beng n_tt_ra-beng n_ttha-beng n_d_ba-beng n_d_ra-beng n_dda-beng n_dd_ra-beng n_ta-beng n_ta_uMatra-beng n_t_ba-beng n_t_ra-beng n_tha-beng n_th_ra-beng n_da-beng n_dha-beng n_dh_ra-beng n_na-beng n_ma-beng n_sa-beng p_ba-beng p_ra-beng p_ra_uMatra-beng p_ra_uuMatra-beng p_tta-beng p_ta-beng p_ta_uMatra-beng p_na-beng p_pa-beng p_ma-beng p_la-beng p_sa-beng ph_ba-beng ph_ra-beng ph_tta-beng ph_la-beng b_ba-beng b_ra-beng b_ra_uMatra-beng b_ra_uuMatra-beng b_ja-beng b_da-beng b_d_ra-beng b_dha-beng b_bha-beng b_la-beng bh_ba-beng bh_ra-beng bh_ra_uMatra-beng bh_ra_uuMatra-beng bh_la-beng m_ba-beng m_b_ra-beng m_ra-beng m_ta-beng m_da-beng m_na-beng m_pa-beng m_pha-beng m_bha-beng m_bh_ra-beng m_ma-beng m_la-beng m_sa-beng m_p_ra-beng y_ba-beng y_ra-beng ra_uMatra-beng ra_uuMatra-beng l_ba-beng l_ra-beng l_ka-beng l_ga-beng l_ga_uMatra-beng l_tta-beng l_tt_ra-beng l_dda-beng l_dd_ra-beng l_ta-beng l_da-beng l_dha-beng l_pa-beng l_pha-beng l_ma-beng l_la-beng sh_ba-beng sh_ra-beng sh_ra_uMatra-beng sh_ra_uuMatra-beng sh_ca-beng sh_cha-beng sh_ta-beng sh_na-beng sh_ma-beng sh_la-beng sha_uMatra-beng ss_ba-beng ss_ra-beng ss_ka-beng ss_k_ra-beng ss_tta-beng ss_tt_ra-beng ss_ttha-beng ss_nna-beng ss_pa-beng ss_pha-beng ss_ma-beng s_ba-beng s_ra-beng s_ra_uMatra-beng s_ra_uuMatra-beng s_ka-beng s_k_ra-beng s_kha-beng s_tta-beng s_tt_ra-beng s_ta-beng s_ta_uMatra-beng s_t_ba-beng s_t_ra-beng s_tha-beng s_na-beng s_pa-beng s_p_ra-beng s_pha-beng s_ma-beng s_la-beng s_la_uMatra-beng h_ba-beng h_ra-beng h_nna-beng h_na-beng h_ma-beng h_la-beng ha_uMatra-beng ha_rVocalicMatra-beng ramiddlediagonal-beng ramiddlediagonalhalf_ba-beng ramiddlediagonalhalf_ra-beng ralowerdiagonal-beng ralowerdiagonalhalf_ba-beng ralowerdiagonalhalf_ra-beng ramiddlediagonal_uMatra-beng ramiddlediagonal_uuMatra-beng tta_iMatra-beng tt_ba_iMatra-beng tt_ra_iMatra-beng tt_tta_iMatra-beng tt_ma_iMatra-beng k_tta_iMatra-beng ss_tta_iMatra-beng k_tt_ra_iMatra-beng ss_tt_ra_iMatra-beng n_tt_iMatra-beng n_tt_ra_iMatra-beng tta_iiMatra-beng tt_ba_iiMatra-beng tt_ra_iiMatra-beng tt_tta_iiMatra-beng tt_ma_iiMatra-beng nn_tta_iiMatra-beng nn_tt_ra_iiMatra-beng n_tta_iiMatra-beng n_tt_ra_iiMatra-beng p_tta_iiMatra-beng l_tta_iiMatra-beng l_tt_ra_iiMatra-beng s_tta_iiMatra-beng s_tt_ra_iiMatra-beng ttha_iiMatra-beng tth_ba_iiMatra-beng tth_ra_iiMatra-beng nn_ttha_iiMatra-beng n_ttha_iiMatra-beng ph_tta_iiMatra-beng ss_tta_iiMatra-beng ss_tt_ra_iiMatra-beng ss_ttha_iiMatra-beng k_tta_iiMatra-beng k_tt_ra_iiMatra-beng tta_auLength-beng tt_ba_auLength-beng tt_ra_auLength-beng tt_tta_auLength-beng nn_tta_auLength-beng nn_tt_ra_auLength-beng n_tta_auLength-beng n_tt_ra_auLength-beng p_tta_auLength-beng l_tta_auLength-beng l_tt_ra_auLength-beng s_tta_auLength-beng s_tt_ra_auLength-beng ph_tta_auLength-beng ss_tta_auLength-beng ss_tt_ra_auLength-beng k_tta_auLength-beng k_tt_ra_auLength-beng k-beng kh-beng gh-beng ch-beng j-beng jh-beng ny-beng tth-beng t-beng th-beng dh-beng p-beng ph-beng bh-beng y-beng r-beng h-beng ramiddlediagonalhalf-beng ralowerdiagonalhalf-beng k_ss-beng j_ny-beng k-beng.nukt kh-beng.nukt g-beng.nukt gh-beng.nukt ng-beng.nukt c-beng.nukt ch-beng.nukt j-beng.nukt jh-beng.nukt ny-beng.nukt tt-beng.nukt tth-beng.nukt dd-beng.nukt ddh-beng.nukt nn-beng.nukt t-beng.nukt th-beng.nukt d-beng.nukt dh-beng.nukt n-beng.nukt p-beng.nukt ph-beng.nukt bh-beng.nukt m-beng.nukt y-beng.nukt l-beng.nukt sh-beng.nukt ss-beng.nukt s-beng.nukt h-beng.nukt ramiddlediagonalhalf-beng.nukt ralowerdiagonalhalf-beng.nukt ka-beng.nukt kha-beng.nukt ga-beng.nukt gha-beng.nukt nga-beng.nukt ca-beng.nukt cha-beng.nukt ja-beng.nukt jha-beng.nukt nya-beng.nukt tta-beng.nukt ttha-beng.nukt nna-beng.nukt ta-beng.nukt tha-beng.nukt da-beng.nukt dha-beng.nukt na-beng.nukt pa-beng.nukt pha-beng.nukt bha-beng.nukt ma-beng.nukt la-beng.nukt sha-beng.nukt ssa-beng.nukt sa-beng.nukt ha-beng.nukt ddNukta_ba-beng ddNukta_ra-beng ddNukta_ga-beng ddhNukta_ba-beng ddhNukta_ra-beng yNukta_ba-beng yNukta_ra-beng ramiddlediagonal-beng.nukt ralowerdiagonal-beng.nukt uni1CEA uni1CF2 k_wa-beng g_wa-beng t_t_wa-beng t_wa-beng d_wa-beng m_wa-beng s_t_wa-beng s_wa-beng dottedcircle], # Base
+    [a-beng aa-beng i-beng ii-beng u-beng uu-beng rVocalic-beng rrVocalic-beng lVocalic-beng llVocalic-beng e-beng ai-beng o-beng au-beng ka-beng kha-beng ga-beng gha-beng nga-beng ca-beng cha-beng ja-beng jha-beng nya-beng tta-beng ttha-beng dda-beng ddha-beng nna-beng ta-beng tha-beng da-beng dha-beng na-beng pa-beng pha-beng ba-beng bha-beng ma-beng ya-beng ra-beng la-beng sha-beng ssa-beng sa-beng ha-beng rra-beng rha-beng yya-beng avagraha-beng taKhanda-beng aaMatra-beng aaMatra-beng.fina iMatra-beng iMatra-beng.short iMatra-beng.wide1 iMatra-beng.wide2 iMatra-beng.wide3 iMatra-beng.wide4 iMatra_candrabindu-beng iMatra_reph-beng iiMatra-beng iiMatra_reph-beng iiMatra_reph_candrabindu-beng iiMatra-beng.fina auLength-beng auLength-beng.fina oMatra-beng auMatra-beng anusvara-beng visarga-beng ya-beng.pstf anji-beng uni09FC k_ka-beng k_ra-beng k_tta-beng k_tt_ra-beng k_ta-beng k_t_ba-beng k_t_ra-beng k_na-beng k_ba-beng k_ma-beng k_la-beng k_ssa-beng k_ss_ba-beng k_ss_ra-beng k_ss_nna-beng k_ss_ma-beng k_sa-beng kh_ba-beng kh_ra-beng g_ba-beng g_ra-beng g_ra_uMatra-beng g_ra_uuMatra-beng g_ga-beng g_da-beng g_dha-beng g_na-beng g_ma-beng g_la-beng ga_uMatra-beng gh_ba-beng gh_ra-beng gh_na-beng gh_la-beng ng_ba-beng ng_ra-beng ng_ka-beng ng_k_ra-beng ng_k_ssa-beng ng_kha-beng ng_ga-beng ng_gha-beng ng_ma-beng c_ba-beng c_ra-beng c_ca-beng c_cha-beng c_ch_ba-beng c_ch_ra-beng c_nya-beng c_na-beng ch_ba-beng ch_ra-beng j_ba-beng j_ra-beng j_ja-beng j_jha-beng j_nya-beng j_ny_ba-beng j_ny_ra-beng j_j_ba-beng jh_ba-beng jh_ra-beng ny_ba-beng ny_ra-beng ny_ca-beng ny_cha-beng ny_ja-beng ny_jha-beng tt_ba-beng tt_ra-beng tt_tta-beng tt_ma-beng tth_ba-beng tth_ra-beng dd_ba-beng dd_ra-beng dd_ga-beng dd_dda-beng dd_ma-beng ddh_ba-beng ddh_ra-beng nn_ba-beng nn_ra-beng nn_tta-beng nn_tt_ra-beng nn_ttha-beng nn_dda-beng nn_dd_ra-beng nn_ddha-beng nn_nna-beng nn_na-beng nn_ma-beng t_ba-beng t_ra-beng t_ra_uMatra-beng t_ra_uuMatra-beng t_ta-beng t_t_ba-beng t_tha-beng t_na-beng t_ma-beng t_la-beng th_ba-beng th_ra-beng th_ra_uMatra-beng th_ra_uuMatra-beng d_ba-beng d_ra-beng d_ra_uMatra-beng d_ra_uuMatra-beng d_ga-beng d_gha-beng d_da-beng d_d_ba-beng d_dha-beng d_dh_ba-beng d_na-beng d_bha-beng d_bh_ra-beng d_ma-beng dh_ba-beng dh_ra-beng dh_ra_uMatra-beng dh_ra_uuMatra-beng dh_na-beng dh_ma-beng n_ba-beng n_ra-beng n_tta-beng n_tt_ra-beng n_ttha-beng n_d_ba-beng n_d_ra-beng n_dda-beng n_dd_ra-beng n_ta-beng n_ta_uMatra-beng n_t_ba-beng n_t_ra-beng n_tha-beng n_th_ra-beng n_da-beng n_dha-beng n_dh_ra-beng n_na-beng n_ma-beng n_sa-beng p_ba-beng p_ra-beng p_ra_uMatra-beng p_ra_uuMatra-beng p_tta-beng p_ta-beng p_ta_uMatra-beng p_na-beng p_pa-beng p_ma-beng p_la-beng p_sa-beng ph_ba-beng ph_ra-beng ph_tta-beng ph_la-beng b_ba-beng b_ra-beng b_ra_uMatra-beng b_ra_uuMatra-beng b_ja-beng b_da-beng b_d_ra-beng b_dha-beng b_bha-beng b_la-beng bh_ba-beng bh_ra-beng bh_ra_uMatra-beng bh_ra_uuMatra-beng bh_la-beng m_ba-beng m_b_ra-beng m_ra-beng m_ta-beng m_da-beng m_na-beng m_pa-beng m_pha-beng m_bha-beng m_bh_ra-beng m_ma-beng m_la-beng m_sa-beng m_p_ra-beng y_ba-beng y_ra-beng ra_uMatra-beng ra_uuMatra-beng l_ba-beng l_ra-beng l_ka-beng l_ga-beng l_ga_uMatra-beng l_tta-beng l_tt_ra-beng l_dda-beng l_dd_ra-beng l_ta-beng l_da-beng l_dha-beng l_pa-beng l_pha-beng l_ma-beng l_la-beng sh_ba-beng sh_ra-beng sh_ra_uMatra-beng sh_ra_uuMatra-beng sh_ca-beng sh_cha-beng sh_ta-beng sh_na-beng sh_ma-beng sh_la-beng sha_uMatra-beng ss_ba-beng ss_ra-beng ss_ka-beng ss_k_ra-beng ss_tta-beng ss_tt_ra-beng ss_ttha-beng ss_nna-beng ss_pa-beng ss_pha-beng ss_ma-beng s_ba-beng s_ra-beng s_ra_uMatra-beng s_ra_uuMatra-beng s_ka-beng s_k_ra-beng s_kha-beng s_tta-beng s_tt_ra-beng s_ta-beng s_ta_uMatra-beng s_t_ba-beng s_t_ra-beng s_tha-beng s_na-beng s_pa-beng s_p_ra-beng s_pha-beng s_ma-beng s_la-beng s_la_uMatra-beng h_ba-beng h_ra-beng h_nna-beng h_na-beng h_ma-beng h_la-beng ha_uMatra-beng ha_rVocalicMatra-beng ramiddlediagonal-beng ramiddlediagonalhalf_ba-beng ramiddlediagonalhalf_ra-beng ralowerdiagonal-beng ralowerdiagonalhalf_ba-beng ralowerdiagonalhalf_ra-beng ramiddlediagonal_uMatra-beng ramiddlediagonal_uuMatra-beng tta_iMatra-beng tt_ba_iMatra-beng tt_ra_iMatra-beng tt_tta_iMatra-beng tt_ma_iMatra-beng k_tta_iMatra-beng ss_tta_iMatra-beng k_tt_ra_iMatra-beng ss_tt_ra_iMatra-beng n_tta_iMatra-beng n_tt_ra_iMatra-beng tta_iiMatra-beng tt_ba_iiMatra-beng tt_ra_iiMatra-beng tt_tta_iiMatra-beng tt_ma_iiMatra-beng nn_tta_iiMatra-beng nn_tt_ra_iiMatra-beng n_tta_iiMatra-beng n_tt_ra_iiMatra-beng p_tta_iiMatra-beng l_tta_iiMatra-beng l_tt_ra_iiMatra-beng s_tta_iiMatra-beng s_tt_ra_iiMatra-beng ttha_iiMatra-beng tth_ba_iiMatra-beng tth_ra_iiMatra-beng nn_ttha_iiMatra-beng n_ttha_iiMatra-beng ph_tta_iiMatra-beng ss_tta_iiMatra-beng ss_tt_ra_iiMatra-beng ss_ttha_iiMatra-beng k_tta_iiMatra-beng k_tt_ra_iiMatra-beng tta_auLength-beng tt_ba_auLength-beng tt_ra_auLength-beng tt_tta_auLength-beng nn_tta_auLength-beng nn_tt_ra_auLength-beng n_tta_auLength-beng n_tt_ra_auLength-beng p_tta_auLength-beng l_tta_auLength-beng l_tt_ra_auLength-beng s_tta_auLength-beng s_tt_ra_auLength-beng ph_tta_auLength-beng ss_tta_auLength-beng ss_tt_ra_auLength-beng k_tta_auLength-beng k_tt_ra_auLength-beng k-beng kh-beng gh-beng ch-beng j-beng jh-beng ny-beng tth-beng t-beng th-beng dh-beng p-beng ph-beng bh-beng y-beng r-beng h-beng ramiddlediagonalhalf-beng ralowerdiagonalhalf-beng k_ss-beng j_ny-beng k-beng.nukt kh-beng.nukt g-beng.nukt gh-beng.nukt ng-beng.nukt c-beng.nukt ch-beng.nukt j-beng.nukt jh-beng.nukt ny-beng.nukt tt-beng.nukt tth-beng.nukt dd-beng.nukt ddh-beng.nukt nn-beng.nukt t-beng.nukt th-beng.nukt d-beng.nukt dh-beng.nukt n-beng.nukt p-beng.nukt ph-beng.nukt bh-beng.nukt m-beng.nukt y-beng.nukt l-beng.nukt sh-beng.nukt ss-beng.nukt s-beng.nukt h-beng.nukt ramiddlediagonalhalf-beng.nukt ralowerdiagonalhalf-beng.nukt ka-beng.nukt kha-beng.nukt ga-beng.nukt gha-beng.nukt nga-beng.nukt ca-beng.nukt cha-beng.nukt ja-beng.nukt jha-beng.nukt nya-beng.nukt tta-beng.nukt ttha-beng.nukt nna-beng.nukt ta-beng.nukt tha-beng.nukt da-beng.nukt dha-beng.nukt na-beng.nukt pa-beng.nukt pha-beng.nukt bha-beng.nukt ma-beng.nukt la-beng.nukt sha-beng.nukt ssa-beng.nukt sa-beng.nukt ha-beng.nukt ddNukta_ba-beng ddNukta_ra-beng ddNukta_ga-beng ddhNukta_ba-beng ddhNukta_ra-beng yNukta_ba-beng yNukta_ra-beng ramiddlediagonal-beng.nukt ralowerdiagonal-beng.nukt uni1CEA uni1CF2 k_wa-beng g_wa-beng t_t_wa-beng t_wa-beng d_wa-beng m_wa-beng s_t_wa-beng s_wa-beng g_nna-beng ng_k_ss_ra-beng ny_c_ba-beng tt_tt_ra-beng nn_tth_ra-beng nn_ddh_ra-beng t_th_ra-beng n_k_ta-beng n_ja-beng n_tth_ra-beng n_ddha-beng n_dh_ba-beng n_s_tta-beng p_t_ra-beng b_ddha-beng b_bh_ra-beng m_tha-beng m_d_ra-beng m_p_la-beng m_ph_ra-beng l_gha-beng l_ddha-beng l_d_ra-beng l_ph_ra-beng l_bha-beng l_sa-beng sh_tta-beng ss_tt_ba-beng s_k_la-beng s_p_la-beng s_ph_ra-beng rh_ra-beng t_t_ra-beng dottedcircle], # Base
     , # Liga
     [uMatra-beng uMatra-beng.alt uuMatra-beng uuMatra-beng.alt rVocalicMatra-beng rrVocalicMatra-beng lVocalicMatra-beng llVocalicMatra-beng reph-beng candrabindu-beng candrabindu-beng.alt reph_candrabindu-beng ba-beng.blwf ra-beng.blwf nukta-beng halant-beng uni09FE udatta-deva anudatta-deva uni1CD0 uni1CD2 uni1CD5 uni1CD6 uni1CD8 uni1CED uniA8F1 uniA8F1.low uni09FE.low uni1CF5.stack uni1CF6.stack uni1CF5.steck uni1CF6.steck uni1CF5.stick uni1CF6.stick], # Mark
     ;
-} GDEF;";
+} GDEF;
+";
 name = "<anonymous>";
 }
 );
@@ -967,17 +1027,17 @@ lookup conjunct_forms { # bng2
 	sub k_ss-beng nna-beng by k_ss_nna-beng;
 	sub k_ss-beng ma-beng by k_ss_ma-beng;
 	sub k-beng ka-beng by k_ka-beng;
+	sub k-beng tta-beng ra-beng.blwf by k_tt_ra-beng;
 	sub k-beng tta-beng by k_tta-beng;
+	sub k-beng ta-beng ba-beng.blwf by k_t_ba-beng;
+	sub k-beng ta-beng ra-beng.blwf by k_t_ra-beng;
 	sub k-beng ta-beng by k_ta-beng;
 	sub k-beng na-beng by k_na-beng;
 	sub k-beng ma-beng by k_ma-beng;
 	sub k-beng la-beng by k_la-beng;
 	sub k-beng sa-beng by k_sa-beng;
-	sub k-beng ta-beng ba-beng.blwf by k_t_ba-beng;
 	sub k_ssa-beng ba-beng.blwf by k_ss_ba-beng;
 	sub ka-beng ba-beng.blwf by k_ba-beng;
-	sub k-beng tta-beng ra-beng.blwf by k_tt_ra-beng;
-	sub k-beng ta-beng ra-beng.blwf by k_t_ra-beng;
 	sub k_ssa-beng ra-beng.blwf by k_ss_ra-beng;
 	sub ka-beng ra-beng.blwf by k_ra-beng;
 	#
@@ -1014,12 +1074,12 @@ lookup conjunct_forms { # bng2
 	sub nga-beng ra-beng.blwf by ng_ra-beng;
 
 	sub c-beng ca-beng by c_ca-beng;
+	sub c-beng cha-beng ra-beng.blwf by c_ch_ra-beng;
 	sub c-beng cha-beng by c_cha-beng;
 	sub c-beng nya-beng by c_nya-beng;
 	sub c-beng na-beng by c_na-beng;
 	sub c-beng cha-beng ba-beng.blwf by c_ch_ba-beng;
 	sub ca-beng ba-beng.blwf by c_ba-beng;
-	sub c-beng cha-beng ra-beng.blwf by c_ch_ra-beng;
 	sub ca-beng ra-beng.blwf by c_ra-beng;
 	
 	sub cha-beng ba-beng.blwf by ch_ba-beng;
@@ -1038,11 +1098,13 @@ lookup conjunct_forms { # bng2
 	
 	sub nya-beng ba-beng.blwf by ny_ba-beng;
 	sub nya-beng ra-beng.blwf by ny_ra-beng;
+	sub nya-beng halant-beng ca-beng ba-beng.blwf by ny_c_ba-beng;
 	sub nya-beng halant-beng ca-beng by ny_ca-beng;
 	sub nya-beng halant-beng cha-beng by ny_cha-beng;
 	sub nya-beng halant-beng ja-beng by ny_ja-beng;
 	sub nya-beng halant-beng jha-beng by ny_jha-beng;
 
+	sub tt-beng tta-beng ra-beng.blwf by tt_tt_ra-beng;
 	sub tt-beng tta-beng by tt_tta-beng;
 	sub tt-beng tt_ra-beng by tt_tt_ra-beng;
 	sub tt-beng ma-beng by tt_ma-beng;
@@ -1062,8 +1124,10 @@ lookup conjunct_forms { # bng2
 	sub ddha-beng ra-beng.blwf by ddh_ra-beng;
 
 	sub nn-beng tta-beng by nn_tta-beng;
+	sub nn-beng ttha-beng ra-beng.blwf by nn_tth_ra-beng;
 	sub nn-beng ttha-beng by nn_ttha-beng;
 	sub nn-beng dda-beng by nn_dda-beng;
+	sub nn-beng ddha-beng ra-beng.blwf by nn_ddh_ra-beng;
 	sub nn-beng ddha-beng by nn_ddha-beng;
 	sub nn-beng nna-beng by nn_nna-beng;
 	sub nn-beng na-beng by nn_na-beng;
@@ -1074,9 +1138,11 @@ lookup conjunct_forms { # bng2
 	sub nna-beng ra-beng.blwf by nn_ra-beng;
 	
 	sub ta-beng halant-beng ta-beng ba-beng.blwf by t_t_ba-beng;
+	sub ta-beng halant-beng ta-beng ra-beng.blwf by t_t_ra-beng;
 	sub ta-beng ba-beng.blwf by t_ba-beng;
 	sub ta-beng ra-beng.blwf by t_ra-beng;
 	sub ta-beng halant-beng ta-beng by t_ta-beng;
+	sub ta-beng halant-beng tha-beng ra-beng.blwf by t_th_ra-beng;
 	sub ta-beng halant-beng tha-beng by t_tha-beng;
 	sub ta-beng halant-beng na-beng by t_na-beng;
 	sub ta-beng halant-beng ma-beng by t_ma-beng;
@@ -1093,12 +1159,12 @@ lookup conjunct_forms { # bng2
 	sub d-beng da-beng by d_da-beng;
 	sub d-beng dha-beng by d_dha-beng;
 	sub d-beng na-beng by d_na-beng;
+	sub d-beng bha-beng ra-beng.blwf by d_bh_ra-beng;
 	sub d-beng bha-beng by d_bha-beng;
 	sub d-beng ma-beng by d_ma-beng;
 	sub d-beng da-beng ba-beng.blwf by d_d_ba-beng;
 	sub d-beng dha-beng ba-beng.blwf by d_dh_ba-beng;
 	sub da-beng ba-beng.blwf by d_ba-beng;
-	sub d-beng bha-beng ra-beng.blwf by d_bh_ra-beng;
 	sub da-beng ra-beng.blwf by d_ra-beng;
 	#
 	sub d-beng ralowerdiagonal-beng by d_wa-beng;
@@ -1111,29 +1177,32 @@ lookup conjunct_forms { # bng2
 	sub n-beng k-beng ta-beng by n_k_ta-beng;
 	sub n-beng s-beng tta-beng by n_s_tta-beng;
 	sub n-beng ja-beng by n_ja-beng;
+	sub n-beng tta-beng ra-beng.blwf by n_tt_ra-beng;
 	sub n-beng tta-beng by n_tta-beng;
+	sub n-beng ttha-beng ra-beng.blwf by n_tth_ra-beng;
 	sub n-beng ttha-beng by n_ttha-beng;
+	sub n-beng dda-beng ra-beng.blwf by n_dd_ra-beng;
 	sub n-beng dda-beng by n_dda-beng;
 	sub n-beng ddha-beng by n_ddha-beng;
+	sub n-beng ta-beng ba-beng.blwf by n_t_ba-beng;
+	sub n-beng ta-beng ra-beng.blwf by n_t_ra-beng;
 	sub n-beng ta-beng by n_ta-beng;
+	sub n-beng tha-beng ra-beng.blwf by n_th_ra-beng;
 	sub n-beng tha-beng by n_tha-beng;
+	sub n-beng da-beng ba-beng.blwf by n_d_ba-beng;
+	sub n-beng da-beng ra-beng.blwf by n_d_ra-beng;
 	sub n-beng da-beng by n_da-beng;
+	sub n-beng dha-beng ra-beng.blwf by n_dh_ra-beng;
+	sub n-beng dha-beng ba-beng.blwf by n_dh_ba-beng;
 	sub n-beng dha-beng by n_dha-beng;
 	sub n-beng na-beng by n_na-beng;
 	sub n-beng ma-beng by n_ma-beng;
 	sub n-beng sa-beng by n_sa-beng;
-	sub n-beng da-beng ba-beng.blwf by n_d_ba-beng;
-	sub n-beng ta-beng ba-beng.blwf by n_t_ba-beng;
 	sub na-beng ba-beng.blwf by n_ba-beng;
-	sub n-beng tta-beng ra-beng.blwf by n_tt_ra-beng;
-	sub n-beng dda-beng ra-beng.blwf by n_dd_ra-beng;
-	sub n-beng da-beng ra-beng.blwf by n_d_ra-beng;
-	sub n-beng ta-beng ra-beng.blwf by n_t_ra-beng;
-	sub n-beng tha-beng ra-beng.blwf by n_th_ra-beng;
-	sub n-beng dha-beng ra-beng.blwf by n_dh_ra-beng;
 	sub na-beng ra-beng.blwf by n_ra-beng;
 
 	sub p-beng tta-beng by p_tta-beng;
+	sub p-beng ta-beng ra-beng.blwf by p_t_ra-beng;
 	sub p-beng ta-beng by p_ta-beng;
 	sub p-beng na-beng by p_na-beng;
 	sub p-beng pa-beng by p_pa-beng;
@@ -1150,12 +1219,12 @@ lookup conjunct_forms { # bng2
 
 	sub b-beng ja-beng by b_ja-beng;
 	sub b-beng ddha-beng by b_ddha-beng;
+	sub b-beng da-beng ra-beng.blwf by b_d_ra-beng;
 	sub b-beng da-beng by b_da-beng;
 	sub b-beng dha-beng by b_dha-beng;
 	sub b-beng bha-beng by b_bha-beng;
 	sub b-beng la-beng by b_la-beng;
 	sub ba-beng ba-beng.blwf by b_ba-beng;
-	sub b-beng da-beng ra-beng.blwf by b_d_ra-beng;
 	sub ba-beng ra-beng.blwf by b_ra-beng;
 	
 	sub bha-beng ba-beng.blwf by bh_ba-beng;
@@ -1167,16 +1236,16 @@ lookup conjunct_forms { # bng2
 	sub m-beng tha-beng by m_tha-beng;
 	sub m-beng da-beng by m_da-beng;
 	sub m-beng na-beng by m_na-beng;
+	sub m-beng pa-beng ra-beng.blwf by m_p_ra-beng;
 	sub m-beng pa-beng by m_pa-beng;
 	sub m-beng pha-beng by m_pha-beng;
+	sub m-beng bha-beng ra-beng.blwf by m_bh_ra-beng;
 	sub m-beng bha-beng by m_bha-beng;
 	sub m-beng ma-beng by m_ma-beng;
 	sub m-beng la-beng by m_la-beng;
 	sub m-beng sa-beng by m_sa-beng;
-	sub ma-beng ba-beng.blwf by m_ba-beng;
-	sub m-beng pa-beng ra-beng.blwf by m_p_ra-beng;
 	sub ma-beng ba-beng.blwf ra-beng.blwf by m_b_ra-beng;
-	sub m-beng bha-beng ra-beng.blwf by m_bh_ra-beng;
+	sub ma-beng ba-beng.blwf by m_ba-beng;
 	sub ma-beng ra-beng.blwf by m_ra-beng;
 	#
 	sub m-beng ralowerdiagonal-beng by m_wa-beng;
@@ -1187,10 +1256,13 @@ lookup conjunct_forms { # bng2
 	sub l-beng ka-beng by l_ka-beng;
 	sub l-beng ga-beng by l_ga-beng;
 	sub l-beng gha-beng by l_gha-beng;
+	sub l-beng tta-beng ra-beng.blwf by l_tt_ra-beng;
 	sub l-beng tta-beng by l_tta-beng;
+	sub l-beng dda-beng ra-beng.blwf by l_dd_ra-beng;
 	sub l-beng dda-beng by l_dda-beng;
 	sub l-beng ddha-beng by l_ddha-beng;
 	sub l-beng ta-beng by l_ta-beng;
+	sub l-beng da-beng ra-beng.blwf by l_d_ra-beng;
 	sub l-beng da-beng by l_da-beng;
 	sub l-beng dha-beng by l_dha-beng;
 	sub l-beng pa-beng by l_pa-beng;
@@ -1199,8 +1271,6 @@ lookup conjunct_forms { # bng2
 	sub l-beng la-beng by l_la-beng;
 	sub la-beng ba-beng.blwf by l_ba-beng;
 	sub l-beng bha-beng by l_bha-beng;
-	sub l-beng tta-beng ra-beng.blwf by l_tt_ra-beng;
-	sub l-beng dda-beng ra-beng.blwf by l_dd_ra-beng;
 	sub la-beng ra-beng.blwf by l_ra-beng;
 
 	sub sh-beng ca-beng by sh_ca-beng;
@@ -1213,7 +1283,9 @@ lookup conjunct_forms { # bng2
 	sub sha-beng ba-beng.blwf by sh_ba-beng;
 	sub sha-beng ra-beng.blwf by sh_ra-beng;
 
+	sub ss-beng ka-beng ra-beng.blwf by ss_k_ra-beng;
 	sub ss-beng ka-beng by ss_ka-beng;
+	sub ss-beng tta-beng ra-beng.blwf by ss_tt_ra-beng;
 	sub ss-beng tta-beng by ss_tta-beng;
 	sub ss-beng ttha-beng by ss_ttha-beng;
 	sub ss-beng nna-beng by ss_nna-beng;
@@ -1221,28 +1293,27 @@ lookup conjunct_forms { # bng2
 	sub ss-beng pha-beng by ss_pha-beng;
 	sub ss-beng ma-beng by ss_ma-beng;
 	sub ssa-beng ba-beng.blwf by ss_ba-beng;
-	sub ss-beng ka-beng ra-beng.blwf by ss_k_ra-beng;
-	sub ss-beng tta-beng ra-beng.blwf by ss_tt_ra-beng;
 	sub ssa-beng ra-beng.blwf by ss_ra-beng;
 
 	sub s-beng k-beng la-beng by s_k_la-beng;
-	sub s-beng p-beng la-beng by s_p_la-beng;
+	sub s-beng ka-beng ra-beng.blwf by s_k_ra-beng;
 	sub s-beng ka-beng by s_ka-beng;
 	sub s-beng kha-beng by s_kha-beng;
+	sub s-beng tta-beng ra-beng.blwf by s_tt_ra-beng;
 	sub s-beng tta-beng by s_tta-beng;
+	sub s-beng ta-beng ba-beng.blwf by s_t_ba-beng;
+	sub s-beng ta-beng ra-beng.blwf by s_t_ra-beng;
 	sub s-beng ta-beng by s_ta-beng;
 	sub s-beng tha-beng by s_tha-beng;
 	sub s-beng na-beng by s_na-beng;
+	sub s-beng p-beng la-beng by s_p_la-beng;
+	sub s-beng pa-beng ra-beng.blwf by s_p_ra-beng;
 	sub s-beng pa-beng by s_pa-beng;
+	sub s-beng ph-beng ra-beng by s_ph_ra-beng;
 	sub s-beng pha-beng by s_pha-beng;
 	sub s-beng ma-beng by s_ma-beng;
 	sub s-beng la-beng by s_la-beng;
-	sub s-beng ta-beng ba-beng.blwf by s_t_ba-beng;
 	sub sa-beng ba-beng.blwf by s_ba-beng;
-	sub s-beng ka-beng ra-beng.blwf by s_k_ra-beng;
-	sub s-beng tta-beng ra-beng.blwf by s_tt_ra-beng;
-	sub s-beng pa-beng ra-beng.blwf by s_p_ra-beng;
-	sub s-beng ta-beng ra-beng.blwf by s_t_ra-beng;
 	sub sa-beng ra-beng.blwf by s_ra-beng;
 	#
 	sub s-beng ta-beng halant-beng ralowerdiagonal-beng by s_t_wa-beng;
@@ -1597,8 +1668,21 @@ lookup preBase_imatra {
 	sub iMatra-beng ss_tta-beng by ss_tta_iMatra-beng;
 	sub iMatra-beng k_tt_ra-beng by k_tt_ra_iMatra-beng;
 	sub iMatra-beng ss_tt_ra-beng by ss_tt_ra_iMatra-beng;
-	sub iMatra-beng n_tta-beng by n_tt_iMatra-beng;
+	sub iMatra-beng n_tta-beng by n_tta_iMatra-beng;
 	sub iMatra-beng n_tt_ra-beng by n_tt_ra_iMatra-beng;
+	sub iMatra-beng nn_tta-beng by nn_tta_iMatra-beng;
+	sub iMatra-beng n_tt_ra-beng by nn_tt_ra_iMatra-beng;
+	sub iMatra-beng tt_tt_ra-beng by tt_tt_ra_iMatra-beng;
+	sub iMatra-beng n_tta-beng by n_tta_iMatra-beng;
+	sub iMatra-beng n_s_tta-beng by n_s_tta_iMatra-beng;
+	sub iMatra-beng p_tta-beng by p_tta_iMatra-beng;
+	sub iMatra-beng ph_tta-beng by ph_tta_iMatra-beng;
+	sub iMatra-beng l_tta-beng by l_tta_iMatra-beng;
+	sub iMatra-beng l_tt_ra-beng by l_tt_ra_iMatra-beng;
+	sub iMatra-beng s_tta-beng by s_tta_iMatra-beng;
+	sub iMatra-beng s_tt_ra-beng by s_tt_ra_iMatra-beng;
+	sub iMatra-beng sh_tta-beng by sh_tta_iMatra-beng;
+	sub iMatra-beng ss_tt_ba-beng by ss_tt_ba_iMatra-beng;
 } preBase_imatra ;
 
 lookup preBase_contextual_imatra {
@@ -1645,6 +1729,12 @@ code = "lookup postBase_iimatra {
 	sub l_tt_ra-beng iiMatra-beng by l_tt_ra_iiMatra-beng;
 	sub ss_tt_ra-beng iiMatra-beng by ss_tt_ra_iiMatra-beng;
 	sub s_tt_ra-beng iiMatra-beng by s_tt_ra_iiMatra-beng;
+	sub tt_tt_ra-beng iiMatra-beng by tt_tt_ra_iiMatra-beng;
+	sub n_s_tta-beng iiMatra-beng by n_s_tta_iiMatra-beng;
+	sub sh_tta-beng iiMatra-beng by sh_tta_iiMatra-beng;
+	sub ss_tt_ba-beng iiMatra-beng by ss_tt_ba_iiMatra-beng;
+	sub nn_tth_ra-beng iiMatra-beng by nn_tth_ra_iiMatra-beng;
+	sub n_tth_ra-beng iiMatra-beng by n_tth_ra_iiMatra-beng;
 } postBase_iimatra ;
 
 lookup postBase_aumatra {
@@ -1667,6 +1757,10 @@ lookup postBase_aumatra {
 	sub l_tt_ra-beng auLength-beng by l_tt_ra_auLength-beng;
 	sub ss_tt_ra-beng auLength-beng by ss_tt_ra_auLength-beng;
 	sub s_tt_ra-beng auLength-beng by s_tt_ra_auLength-beng;
+	sub tt_tt_ra-beng auLength-beng by tt_tt_ra_auLength-beng;
+	sub n_s_tta-beng auLength-beng by n_s_tta_auLength-beng;
+	sub sh_tta-beng auLength-beng by sh_tta_auLength-beng;
+	sub ss_tt_ba-beng auLength-beng by ss_tt_ba_auLength-beng;
 } postBase_aumatra ;
 ";
 tag = psts;
@@ -1726,13 +1820,13 @@ lookup stackMarks {
 #ka-beng kha-beng pa-beng pha-beng uni1CF5.stack uni1CF6.stack 
 	sub uni1CF5' lookup killStack [ka-beng kha-beng k_ka-beng k_ra-beng k_ta-beng k_t_ba-beng k_t_ra-beng k_na-beng k_ba-beng k_ma-beng k_la-beng k_sa-beng kh_ba-beng kh_ra-beng k-beng k_tta-beng k_tt_ra-beng ]' lookup splitStack ;
 	sub uni1CF5' lookup killStack [iMatra-beng iMatra-beng.short iMatra-beng.wide1 iMatra-beng.wide2 iMatra-beng.wide3 iMatra-beng.wide4 iMatra_candrabindu-beng iMatra_reph-beng eMatra-beng eMatra-beng.init aiMatra-beng aiMatra-beng.init ]' [ka-beng kha-beng k_ka-beng k_ra-beng k_ta-beng k_t_ba-beng k_t_ra-beng k_na-beng k_ba-beng k_ma-beng k_la-beng k_sa-beng kh_ba-beng kh_ra-beng k-beng k_tta-beng k_tt_ra-beng ]' lookup splitStack ;
-	sub uni1CF6' lookup killStack [pa-beng pha-beng p_ba-beng p_ra-beng p_ra_uMatra-beng p_ra_uuMatra-beng p_tta-beng p_ta-beng p_ta_uMatra-beng p_na-beng p_pa-beng p_ma-beng p_la-beng p_sa-beng ph_ba-beng ph_ra-beng ph_tta-beng ph_la-beng p-beng ph-beng ]' lookup splitStack ;
-	sub uni1CF6' lookup killStack [iMatra-beng iMatra-beng.short iMatra-beng.wide1 iMatra-beng.wide2 iMatra-beng.wide3 iMatra-beng.wide4 iMatra_candrabindu-beng iMatra_reph-beng eMatra-beng eMatra-beng.init aiMatra-beng aiMatra-beng.init ]' [pa-beng pha-beng p_ba-beng p_ra-beng p_ra_uMatra-beng p_ra_uuMatra-beng p_tta-beng p_ta-beng p_ta_uMatra-beng p_na-beng p_pa-beng p_ma-beng p_la-beng p_sa-beng ph_ba-beng ph_ra-beng ph_tta-beng ph_la-beng p-beng ph-beng ]' lookup splitStack ;
+	sub uni1CF6' lookup killStack [pa-beng pha-beng p_ba-beng p_ra-beng p_ra_uMatra-beng p_ra_uuMatra-beng p_tta-beng p_ta-beng p_t_ra-beng p_ta_uMatra-beng p_na-beng p_pa-beng p_ma-beng p_la-beng p_sa-beng ph_ba-beng ph_ra-beng ph_tta-beng ph_la-beng p-beng ph-beng ]' lookup splitStack ;
+	sub uni1CF6' lookup killStack [iMatra-beng iMatra-beng.short iMatra-beng.wide1 iMatra-beng.wide2 iMatra-beng.wide3 iMatra-beng.wide4 iMatra_candrabindu-beng iMatra_reph-beng eMatra-beng eMatra-beng.init aiMatra-beng aiMatra-beng.init ]' [pa-beng pha-beng p_ba-beng p_ra-beng p_ra_uMatra-beng p_ra_uuMatra-beng p_tta-beng p_ta-beng p_t_ra-beng p_ta_uMatra-beng p_na-beng p_pa-beng p_ma-beng p_la-beng p_sa-beng ph_ba-beng ph_ra-beng ph_tta-beng ph_la-beng p-beng ph-beng ]' lookup splitStack ;
 } stackMarks ;
 
 lookup shiftStackMarks {
 	sub [iMatra-beng iMatra-beng.wide1 iMatra-beng.wide2 iMatra-beng.wide3] [ka-beng kha-beng k_ka-beng k_ra-beng k_ta-beng k_t_ba-beng k_t_ra-beng k_na-beng k_ba-beng k_ma-beng k_la-beng k_sa-beng kh_ba-beng kh_ra-beng k-beng k_tta-beng k_tt_ra-beng] uni1CF5.stack' lookup stack2 ;
-	sub [iMatra-beng iMatra-beng.wide1 iMatra-beng.wide2 iMatra-beng.wide3] [pa-beng pha-beng p_ba-beng p_ra-beng p_ra_uMatra-beng p_ra_uuMatra-beng p_tta-beng p_ta-beng p_ta_uMatra-beng p_na-beng p_pa-beng p_ma-beng p_la-beng p_sa-beng ph_ba-beng ph_ra-beng ph_tta-beng ph_la-beng p-beng ph-beng] uni1CF6.stack' lookup stack2 ;
+	sub [iMatra-beng iMatra-beng.wide1 iMatra-beng.wide2 iMatra-beng.wide3] [pa-beng pha-beng p_ba-beng p_ra-beng p_ra_uMatra-beng p_ra_uuMatra-beng p_tta-beng p_ta-beng p_t_ra-beng p_ta_uMatra-beng p_na-beng p_pa-beng p_ma-beng p_la-beng p_sa-beng ph_ba-beng ph_ra-beng ph_tta-beng ph_la-beng p-beng ph-beng] uni1CF6.stack' lookup stack2 ;
 	sub uni1CF5.stack' [auLength-beng auLength-beng.fina] by uni1CF5.steck ;
 	sub uni1CF6.stack' [auLength-beng auLength-beng.fina] by uni1CF6.steck ;
 	sub uni1CF5.stack' [iiMatra-beng iiMatra_reph-beng iiMatra_reph_candrabindu-beng iiMatra-beng.fina ] by uni1CF5.stick ;
@@ -2547,11 +2641,6 @@ value = 1;
 name = openTypeOS2SelectionUnsupportedBits;
 value = (
 );
-}
-);
-guides = (
-{
-pos = (228,125);
 }
 );
 iconName = Condensed;

@@ -1,6 +1,7 @@
 {
 category = Letter;
-glyphname = "n_tt_iMatra-beng";
+color = 4;
+glyphname = "n_tta_iMatra-beng";
 layers = (
 {
 anchors = (
