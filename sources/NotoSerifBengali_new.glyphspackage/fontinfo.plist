@@ -1048,6 +1048,7 @@ lookup conjunct_forms { # bng2
 
 	sub g-beng ga-beng by g_ga-beng;
 	sub g-beng da-beng by g_da-beng;
+	sub g-beng dha-beng ba-beng.blwf by g_dh_ba-beng;
 	sub g-beng dha-beng by g_dha-beng;
 	sub g-beng nna-beng by g_nna-beng;
 	sub g-beng na-beng by g_na-beng;
@@ -1157,6 +1158,7 @@ lookup conjunct_forms { # bng2
 
 	sub d-beng ga-beng by d_ga-beng;
 	sub d-beng gha-beng by d_gha-beng;
+	sub d-beng da-beng ra-beng.blwf by d_d_ra-beng;
 	sub d-beng da-beng by d_da-beng;
 	sub d-beng dha-beng by d_dha-beng;
 	sub d-beng na-beng by d_na-beng;
@@ -1296,6 +1298,7 @@ lookup conjunct_forms { # bng2
 	sub ss-beng tta-beng by ss_tta-beng;
 	sub ss-beng ttha-beng by ss_ttha-beng;
 	sub ss-beng nna-beng by ss_nna-beng;
+	sub ss-beng pa-beng ra-beng.blwf by ss_p_ra-beng;
 	sub ss-beng pa-beng by ss_pa-beng;
 	sub ss-beng pha-beng by ss_pha-beng;
 	sub ss-beng ma-beng by ss_ma-beng;
@@ -1678,6 +1681,7 @@ lookup preBase_imatra {
 	sub iMatra-beng n_tta-beng by n_tta_iMatra-beng;
 	sub iMatra-beng n_tt_ra-beng by n_tt_ra_iMatra-beng;
 	sub iMatra-beng nn_tta-beng by nn_tta_iMatra-beng;
+	sub iMatra-beng nn_tt_ra-beng by nn_tt_ra_iMatra-beng;
 	sub iMatra-beng n_tt_ra-beng by nn_tt_ra_iMatra-beng;
 	sub iMatra-beng tt_tt_ra-beng by tt_tt_ra_iMatra-beng;
 	sub iMatra-beng n_tta-beng by n_tta_iMatra-beng;
@@ -1694,10 +1698,10 @@ lookup preBase_imatra {
 
 lookup preBase_contextual_imatra {
 	sub iMatra-beng' [tth_ba-beng tth_ra-beng ss_ttha-beng nn_tta-beng nn_tt_ra-beng n_tt_ra-beng rh_ra-beng] by iMatra-beng.short ;
-	sub iMatra-beng' [g_ra-beng ng_ma-beng ph_tta-beng jh_ra-beng ny_ba-beng ny_ra-beng nn_ra-beng nn_ttha-beng nn_tth_ra-beng nn_dda-beng nn_dd_ra-beng m_ta-beng d_da-beng d_d_ba-beng d_ma-beng dh_ra-beng dh_ma-beng n_ra-beng n_ma-beng p_ra-beng p_ta-beng ph_la-beng m_bha-beng k_ssa-beng k_ss_ba-beng k_ss_ra-beng k_ss_nna-beng b_da-beng t_t_ra-beng s_k_la-beng l_bha-beng l_da-beng l_d_ra-beng l_ddha-beng m_tha-beng p_t_ra-beng n_k_ta-beng] by iMatra-beng.wide1 ;
-	sub iMatra-beng' [k_ma-beng k_sa-beng g_ma-beng ng_kha-beng c_cha-beng nn_ddha-beng c_nya-beng b_ja-beng j_ba-beng j_ra-beng dd_ma-beng n_tta-beng nn_ma-beng t_ma-beng n_sa-beng p_ma-beng m_pha-beng m_ma-beng m_ph_ra-beng n_ja-beng nn_ddh_ra-beng ] by iMatra-beng.wide2 ;
-	sub iMatra-beng' [j_jha-beng nn_tta-beng dh_ba-beng p_sa-beng b_ba-beng k_ss_ma-beng dd_dda-beng s_tta-beng s_tt_ra-beng l_tta-beng l_tt_ra-beng s_pha-beng s_ph_ra-beng l_sa-beng l_pha-beng l_ph_ra-beng l_gha-beng] by iMatra-beng.wide3 ;
-	sub iMatra-beng' [m_pa-beng ng_gha-beng j_ja-beng dd_ga-beng d_ga-beng d_gha-beng m_p_ra-beng s_pa-beng s_p_ra-beng ng_k_ssa-beng j_ja-beng j_j_ba-beng s_p_la-beng m_p_la-beng ng_k_ss_ra-beng ] by iMatra-beng.wide4 ;
+	sub iMatra-beng' [la-beng sa-beng k_ta-beng k_t_ba-beng k_t_ra-beng k_ra-beng g_ra-beng gh_ra-beng ph_tta-beng jh_ra-beng ny_ba-beng ny_ra-beng nn_ra-beng nn_ttha-beng nn_tth_ra-beng nn_dda-beng nn_dd_ra-beng m_ta-beng d_da-beng d_d_ra-beng d_d_ba-beng d_ma-beng dh_ra-beng dh_ma-beng n_ra-beng p_ra-beng p_ta-beng ph_la-beng m_bha-beng k_ssa-beng k_ss_ba-beng k_ss_ra-beng k_ss_nna-beng b_da-beng b_d_ra-beng b_bha-beng b_ra-beng t_t_ra-beng s_k_la-beng l_bha-beng l_ddha-beng m_tha-beng p_t_ra-beng n_k_ta-beng s_ra-beng h_ma-beng m_ra-beng y_ra-beng l_ka-beng l_ga-beng l_dda-beng l_dd_ra-beng l_ta-beng l_dha-beng l_pa-beng l_ba-beng l_la-beng sh_ta-beng sh_ra-beng ss_pha-beng s_k_ra-beng s_ta-beng s_tha-beng s_wa-beng s_na-beng s_ba-beng s_k_ra-beng s_k_la-beng s_ka-beng s_la-beng ng_ka-beng ng_k_ra-beng n_ta-beng n_t_ba-beng ss_k_ra-beng s_t_ba-beng s_t_ra-beng yNukta_ra-beng ss_ra-beng ss_ma-beng m_b_ra-beng n_da-beng n_d_ra-beng n_d_ba-beng ] by iMatra-beng.wide1 ;
+	sub iMatra-beng' [k_ma-beng k_sa-beng g_ma-beng ng_kha-beng ng_ma-beng c_cha-beng c_ch_ba-beng c_ch_ra-beng nn_ddha-beng c_nya-beng b_ja-beng j_ba-beng j_ra-beng dd_ma-beng n_tta-beng nn_ma-beng t_ma-beng n_sa-beng p_ma-beng m_pha-beng m_ma-beng m_ph_ra-beng n_ja-beng nn_ddh_ra-beng s_ma-beng m_da-beng l_ra-beng l_ma-beng sh_ma-beng s_kha-beng n_ma-beng] by iMatra-beng.wide2 ;
+	sub iMatra-beng' [j_jha-beng nn_tta-beng dh_ba-beng p_sa-beng b_ba-beng k_ss_ma-beng dd_dda-beng s_tta-beng s_tt_ra-beng l_tta-beng l_tt_ra-beng s_pha-beng s_ph_ra-beng l_sa-beng l_pha-beng l_ph_ra-beng l_gha-beng ss_pa-beng ss_p_ra-beng l_da-beng l_d_ra-beng] by iMatra-beng.wide3 ;
+	sub iMatra-beng' [m_pa-beng ng_gha-beng j_ja-beng dd_ga-beng d_ga-beng d_gha-beng m_p_ra-beng s_pa-beng s_p_ra-beng ng_k_ssa-beng j_ja-beng j_j_ba-beng s_p_la-beng m_p_la-beng ng_k_ss_ra-beng ddNukta_ga-beng m_sa-beng] by iMatra-beng.wide4 ;
 } preBase_contextual_imatra ;
 
 script bng2 ;

@@ -695,5 +695,8 @@ zero,
 "zero-beng",
 zerowidthjoiner,
 zerowidthnonjoiner,
-zerowidthspace
+zerowidthspace,
+"g_dh_ba-beng",
+"d_d_ra-beng",
+"ss_p_ra-beng"
 )
