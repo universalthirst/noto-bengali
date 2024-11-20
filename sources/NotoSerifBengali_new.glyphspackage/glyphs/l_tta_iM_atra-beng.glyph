@@ -24,7 +24,7 @@ pos = (795,49);
 },
 {
 name = top;
-pos = (775,638);
+pos = (894,653);
 },
 {
 name = topleft;
@@ -32,7 +32,7 @@ pos = (882,638);
 },
 {
 name = topright;
-pos = (736,656);
+pos = (727,639);
 },
 {
 name = vedic;
@@ -415,7 +415,7 @@ pos = (823,41);
 },
 {
 name = top;
-pos = (745,656);
+pos = (882,665);
 },
 {
 name = topleft;
@@ -423,7 +423,7 @@ pos = (840,656);
 },
 {
 name = topright;
-pos = (703,652);
+pos = (678,624);
 },
 {
 name = vedic;
@@ -806,15 +806,15 @@ pos = (1035,20);
 },
 {
 name = top;
-pos = (917,682);
+pos = (1049,688);
 },
 {
 name = topleft;
-pos = (917,682);
+pos = (1007,690);
 },
 {
 name = topright;
-pos = (847,646);
+pos = (914,616);
 },
 {
 name = vedic;
@@ -1197,7 +1197,7 @@ pos = (587,49);
 },
 {
 name = top;
-pos = (545,632);
+pos = (671,653);
 },
 {
 name = topleft;
@@ -1205,7 +1205,7 @@ pos = (653,632);
 },
 {
 name = topright;
-pos = (506,654);
+pos = (516,654);
 },
 {
 name = vedic;
@@ -1588,7 +1588,7 @@ pos = (679,36);
 },
 {
 name = top;
-pos = (617,642);
+pos = (730,665);
 },
 {
 name = topleft;
@@ -1596,7 +1596,7 @@ pos = (658,642);
 },
 {
 name = topright;
-pos = (569,646);
+pos = (593,635);
 },
 {
 name = vedic;
@@ -1979,15 +1979,15 @@ pos = (823,20);
 },
 {
 name = top;
-pos = (760,662);
+pos = (866,689);
 },
 {
 name = topleft;
-pos = (760,662);
+pos = (760,663);
 },
 {
 name = topright;
-pos = (698,632);
+pos = (716,612);
 },
 {
 name = vedic;
@@ -2353,7 +2353,7 @@ width = 1054;
 );
 metricLeft = "l_ba-beng";
 metricRight = "tta-beng";
-production = uni09B209CD099F.001;
+production = uni09B209CD099F09BF;
 script = bengali;
 subCategory = Other;
 }

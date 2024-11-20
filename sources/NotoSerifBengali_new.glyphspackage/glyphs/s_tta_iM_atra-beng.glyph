@@ -200,15 +200,15 @@ pos = (828,41);
 },
 {
 name = top;
-pos = (750,656);
+pos = (882,665);
 },
 {
 name = topleft;
-pos = (847,656);
+pos = (840,656);
 },
 {
 name = topright;
-pos = (708,652);
+pos = (678,624);
 },
 {
 name = vedic;
@@ -377,15 +377,15 @@ pos = (1035,20);
 },
 {
 name = top;
-pos = (994,690);
+pos = (1049,688);
 },
 {
 name = topleft;
-pos = (994,690);
+pos = (1007,690);
 },
 {
 name = topright;
-pos = (904,632);
+pos = (914,616);
 },
 {
 name = vedic;
@@ -554,15 +554,15 @@ pos = (598,49);
 },
 {
 name = top;
-pos = (556,632);
+pos = (671,653);
 },
 {
 name = topleft;
-pos = (630,632);
+pos = (653,632);
 },
 {
 name = topright;
-pos = (517,654);
+pos = (516,654);
 },
 {
 name = vedic;
@@ -731,15 +731,15 @@ pos = (688,36);
 },
 {
 name = top;
-pos = (627,642);
+pos = (730,665);
 },
 {
 name = topleft;
-pos = (647,642);
+pos = (658,642);
 },
 {
 name = topright;
-pos = (579,646);
+pos = (593,635);
 },
 {
 name = vedic;
@@ -908,15 +908,15 @@ pos = (845,20);
 },
 {
 name = top;
-pos = (780,662);
+pos = (866,689);
 },
 {
 name = topleft;
-pos = (780,662);
+pos = (760,663);
 },
 {
 name = topright;
-pos = (718,632);
+pos = (716,612);
 },
 {
 name = vedic;
@@ -1068,7 +1068,6 @@ width = 1076;
 );
 metricLeft = "iMatra-beng";
 metricRight = "tta-beng";
-production = uni09B809CD099F.001;
 script = bengali;
 subCategory = Other;
 }
