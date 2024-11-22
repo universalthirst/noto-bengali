@@ -6,7 +6,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (640,97);
+pos = (644,98);
 },
 {
 name = bottom.rakaar;
@@ -119,7 +119,7 @@ width = 762;
 anchors = (
 {
 name = bottom;
-pos = (683,87);
+pos = (699,70);
 },
 {
 name = bottom.rakaar;
@@ -232,7 +232,7 @@ width = 791;
 anchors = (
 {
 name = bottom;
-pos = (780,7);
+pos = (800,-19);
 },
 {
 name = bottom.rakaar;
@@ -571,7 +571,7 @@ width = 584;
 anchors = (
 {
 name = bottom;
-pos = (676,48);
+pos = (696,17);
 },
 {
 name = bottom.rakaar;

@@ -110,7 +110,6 @@ comma,
 "ddh-beng",
 "ddh-beng.nukt",
 "ddhNukta_ba-beng",
-"ddhNukta_ra-beng",
 "ddh_ba-beng",
 "ddh_ra-beng",
 "ddha-beng",
@@ -698,5 +697,7 @@ zero,
 "zero-beng",
 zerowidthjoiner,
 zerowidthnonjoiner,
-zerowidthspace
+zerowidthspace,
+"ralowerdiagonal_uMatra-beng",
+"ralowerdiagonal_uuMatra-beng"
 )
