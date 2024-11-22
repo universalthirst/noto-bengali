@@ -1136,7 +1136,7 @@ shapes = (
 ref = "tt_tta-beng";
 },
 {
-pos = (446,-159);
+pos = (445,-160);
 ref = "ra-beng.blwf";
 }
 );
@@ -1151,7 +1151,7 @@ shapes = (
 ref = "tt_tta-beng";
 },
 {
-pos = (465,-159);
+pos = (465,-158);
 ref = "ra-beng.blwf";
 }
 );
@@ -1181,7 +1181,7 @@ shapes = (
 ref = "tt_tta-beng";
 },
 {
-pos = (320,-160);
+pos = (318,-160);
 ref = "ra-beng.blwf";
 }
 );
@@ -1196,7 +1196,7 @@ shapes = (
 ref = "tt_tta-beng";
 },
 {
-pos = (354,-159);
+pos = (358,-158);
 ref = "ra-beng.blwf";
 }
 );

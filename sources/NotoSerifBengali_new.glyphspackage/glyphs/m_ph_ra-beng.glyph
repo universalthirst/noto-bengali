@@ -1098,7 +1098,7 @@ shapes = (
 ref = "m_pha-beng";
 },
 {
-pos = (462,-20);
+pos = (460,-20);
 ref = "ra-beng.blwf";
 }
 );

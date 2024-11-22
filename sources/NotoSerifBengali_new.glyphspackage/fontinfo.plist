@@ -539,6 +539,8 @@ quotesingle,
 "ra_uuMatra-beng",
 "ralowerdiagonal-beng",
 "ralowerdiagonal-beng.nukt",
+"ralowerdiagonal_uMatra-beng",
+"ralowerdiagonal_uuMatra-beng",
 "ralowerdiagonalhalf-beng",
 "ralowerdiagonalhalf-beng.nukt",
 "ralowerdiagonalhalf_ba-beng",
@@ -777,7 +779,7 @@ value = "B2542900-2B87-4688-8902-A06B6D3D93DD";
 }
 );
 date = "2019-06-10 11:58:22 +0000";
-familyName = "Noto Serif Bengali";
+familyName = "Noto Serif Bengali New";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
@@ -4569,7 +4571,6 @@ value = "Version 2.003";
 }
 );
 settings = {
-disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 };
 stems = (

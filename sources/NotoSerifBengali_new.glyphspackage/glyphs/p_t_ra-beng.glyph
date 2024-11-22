@@ -1238,7 +1238,7 @@ shapes = (
 ref = "p_ta-beng";
 },
 {
-pos = (482,-112);
+pos = (480,-112);
 ref = "ra-beng.blwf";
 }
 );
