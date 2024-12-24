@@ -716,5 +716,6 @@ zerowidthspace,
 "l-beng.DEPRECATED",
 "sh-beng.DEPRECATED",
 "ss-beng.DEPRECATED",
-"s-beng.DEPRECATED"
+"s-beng.DEPRECATED",
+"iiMatra-beng.long"
 )
