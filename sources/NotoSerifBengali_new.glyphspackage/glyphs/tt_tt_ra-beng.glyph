@@ -1208,9 +1208,11 @@ layerId = "B80921B1-5247-4D77-B863-48DFF850642C";
 name = "11 Nov 24 at 14:55";
 shapes = (
 {
+alignment = -1;
 ref = "tt_tta-beng";
 },
 {
+alignment = -1;
 pos = (465,-198);
 ref = "ra-beng.blwf";
 }
