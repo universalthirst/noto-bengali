@@ -1,8 +1,8 @@
 {
-.appVersion = "3309";
+.appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"/candrabindu-beng.small  ঠ/tth-beng.half   /ttha-beng.side/ss_ttha-beng ি   /ss_tta-beng"
+"/n-beng.headline  /aaMatra-beng.part/n-beng.float/baphala-beng/dha-beng.part/headline-beng.130/n_dha-beng"
 );
 axes = (
 {
@@ -136221,17 +136221,17 @@ color = 7;
 glyphname = "aaMatra-beng.part";
 kernLeft = L_BNG_aaMatra_part;
 kernRight = R_BNG_aaMatra_part;
-lastChange = "2024-10-11 18:11:10 +0000";
+lastChange = "2024-10-12 06:40:38 +0000";
 layers = (
 {
 anchors = (
 {
-name = bottomVattu;
-pos = (95,185);
+name = bottomMainForm;
+pos = (95,291);
 },
 {
-name = center;
-pos = (95,291);
+name = bottomVattu;
+pos = (95,185);
 },
 {
 name = top_headline130;
@@ -136373,12 +136373,12 @@ width = 264;
 {
 anchors = (
 {
-name = bottomVattu;
-pos = (94,195);
+name = bottomMainForm;
+pos = (94,288);
 },
 {
-name = center;
-pos = (94,288);
+name = bottomVattu;
+pos = (94,195);
 },
 {
 name = top_headline130;
@@ -136520,12 +136520,12 @@ width = 220;
 {
 anchors = (
 {
-name = bottomVattu;
-pos = (78,160);
+name = bottomMainForm;
+pos = (78,300);
 },
 {
-name = center;
-pos = (78,300);
+name = bottomVattu;
+pos = (78,160);
 },
 {
 name = top_headline130;
@@ -141629,7 +141629,7 @@ subCategory = Nonspacing;
 category = Mark;
 color = 6;
 glyphname = "baphala-beng";
-lastChange = "2024-10-11 17:30:32 +0000";
+lastChange = "2024-10-12 06:36:31 +0000";
 layers = (
 {
 anchors = (
@@ -141650,7 +141650,7 @@ name = bottomVattu;
 pos = (290,-119);
 },
 {
-name = centerVattu;
+name = bottomVattuPart;
 pos = (367,184);
 }
 );
@@ -141758,7 +141758,7 @@ name = bottomVattu;
 pos = (277,6);
 },
 {
-name = centerVattu;
+name = bottomVattuPart;
 pos = (298,237);
 }
 );
@@ -141833,7 +141833,7 @@ name = bottomVattu;
 pos = (292,-141);
 },
 {
-name = centerVattu;
+name = bottomVattuPart;
 pos = (456,136);
 }
 );
@@ -154349,12 +154349,12 @@ subCategory = Nonspacing;
 category = Mark;
 color = 6;
 glyphname = "ka-beng.part";
-lastChange = "2024-10-11 18:11:21 +0000";
+lastChange = "2024-10-12 06:36:45 +0000";
 layers = (
 {
 anchors = (
 {
-name = _centerVattu;
+name = _bottomVattuPart;
 pos = (42,211);
 }
 );
@@ -154516,7 +154516,7 @@ width = 259;
 {
 anchors = (
 {
-name = _centerVattu;
+name = _bottomVattuPart;
 pos = (24,277);
 }
 );
@@ -154678,7 +154678,7 @@ width = 240;
 {
 anchors = (
 {
-name = _centerVattu;
+name = _bottomVattuPart;
 pos = (95,154);
 }
 );
@@ -155480,12 +155480,12 @@ subCategory = Nonspacing;
 category = Mark;
 color = 6;
 glyphname = "dha-beng.part";
-lastChange = "2024-10-11 18:11:21 +0000";
+lastChange = "2024-10-12 06:41:20 +0000";
 layers = (
 {
 anchors = (
 {
-name = _centerVattu;
+name = _bottomVattuPart;
 pos = (42,211);
 }
 );
@@ -155643,7 +155643,7 @@ width = 259;
 {
 anchors = (
 {
-name = _centerVattu;
+name = _bottomVattuPart;
 pos = (24,277);
 }
 );
@@ -155801,7 +155801,7 @@ width = 240;
 {
 anchors = (
 {
-name = _centerVattu;
+name = _bottomVattuPart;
 pos = (95,154);
 }
 );
@@ -156288,12 +156288,12 @@ subCategory = Nonspacing;
 category = Mark;
 color = 6;
 glyphname = "n-beng.float";
-lastChange = "2024-10-11 18:11:21 +0000";
+lastChange = "2024-10-12 06:40:52 +0000";
 layers = (
 {
 anchors = (
 {
-name = _center;
+name = _bottomMainForm;
 pos = (393,284);
 }
 );
@@ -156517,7 +156517,7 @@ width = 604;
 {
 anchors = (
 {
-name = _center;
+name = _bottomMainForm;
 pos = (379,300);
 }
 );
@@ -156605,7 +156605,7 @@ width = 506;
 {
 anchors = (
 {
-name = _center;
+name = _bottomMainForm;
 pos = (367,300);
 }
 );
@@ -163905,7 +163905,7 @@ category = Letter;
 color = 9;
 glyphname = "n-beng.headline";
 kernRight = R_BNG_nHeadline_part;
-lastChange = "2024-10-11 17:30:32 +0000";
+lastChange = "2024-10-12 06:42:23 +0000";
 layers = (
 {
 anchors = (
