@@ -888,6 +888,26 @@ name = "<anonymous>";
 );
 features = (
 {
+automatic = 1;
+code = "feature nukt;
+feature akhn;
+feature rphf;
+feature blwf;
+feature half;
+feature pstf;
+feature cjct;
+feature init;
+feature pres;
+feature psts;
+feature abvs;
+feature rclt;
+feature blws;
+feature haln;
+feature fina;
+";
+tag = aalt;
+},
+{
 code = "script beng ;
 lookup nukta_forms {
 	sub ka-beng nukta-beng by ka-beng.nukt;
@@ -1730,14 +1750,14 @@ code = "lookup postBase_iimatra {
 	sub tth_ba-beng iiMatra-beng by tth_ba_iiMatra-beng;
 	sub tth_ra-beng iiMatra-beng by tth_ra_iiMatra-beng;
 	sub nn_tta-beng iiMatra-beng by nn_tta_iiMatra-beng;
-	sub nn_ttha-beng iiMatra-beng by nn_ttha_iiMatra-beng;
+#	sub nn_ttha-beng iiMatra-beng by nn_ttha_iiMatra-beng;
 	sub n_tta-beng iiMatra-beng by n_tta_iiMatra-beng;
-	sub n_ttha-beng iiMatra-beng by n_ttha_iiMatra-beng;
+#	sub n_ttha-beng iiMatra-beng by n_ttha_iiMatra-beng;
 	sub p_tta-beng iiMatra-beng by p_tta_iiMatra-beng;
 	sub ph_tta-beng iiMatra-beng by ph_tta_iiMatra-beng;
 	sub l_tta-beng iiMatra-beng by l_tta_iiMatra-beng;
 	sub ss_tta-beng iiMatra-beng by ss_tta_iiMatra-beng;
-	sub ss_ttha-beng iiMatra-beng by ss_ttha_iiMatra-beng;
+#	sub ss_ttha-beng iiMatra-beng by ss_ttha_iiMatra-beng;
 	sub s_tta-beng iiMatra-beng by s_tta_iiMatra-beng;
 	sub k_tt_ra-beng iiMatra-beng by k_tt_ra_iiMatra-beng;
 	sub nn_tt_ra-beng iiMatra-beng by nn_tt_ra_iiMatra-beng;
@@ -1749,8 +1769,8 @@ code = "lookup postBase_iimatra {
 	sub n_s_tta-beng iiMatra-beng by n_s_tta_iiMatra-beng;
 	sub sh_tta-beng iiMatra-beng by sh_tta_iiMatra-beng;
 	sub ss_tt_ba-beng iiMatra-beng by ss_tt_ba_iiMatra-beng;
-	sub nn_tth_ra-beng iiMatra-beng by nn_tth_ra_iiMatra-beng;
-	sub n_tth_ra-beng iiMatra-beng by n_tth_ra_iiMatra-beng;
+#	sub nn_tth_ra-beng iiMatra-beng by nn_tth_ra_iiMatra-beng;
+#	sub n_tth_ra-beng iiMatra-beng by n_tth_ra_iiMatra-beng;
 } postBase_iimatra ;
 
 lookup postBase_aumatra {
@@ -1968,6 +1988,14 @@ script bng2 ;
 lookup halant_forms ;
 ";
 tag = haln;
+},
+{
+automatic = 1;
+code = "sub aaMatra-beng by aaMatra-beng.fina;
+sub auLength-beng by auLength-beng.fina;
+sub iiMatra-beng by iiMatra-beng.fina;
+";
+tag = fina;
 }
 );
 fontMaster = (
