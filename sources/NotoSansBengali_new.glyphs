@@ -23979,7 +23979,7 @@ category = Letter;
 color = 5;
 glyphname = "da-beng";
 kernLeft = L_BNG_da;
-lastChange = "2024-10-11 17:58:49 +0000";
+lastChange = "2025-01-07 00:56:57 +0000";
 layers = (
 {
 anchors = (
@@ -24084,7 +24084,7 @@ name = bottom;
 pos = (410,-10);
 },
 {
-name = center;
+name = bottomMainForm;
 pos = (82,260);
 },
 {
@@ -24314,7 +24314,7 @@ name = bottom;
 pos = (413,-2);
 },
 {
-name = center;
+name = bottomMainForm;
 pos = (89,295);
 },
 {
@@ -24434,7 +24434,7 @@ name = bottom;
 pos = (383,-23);
 },
 {
-name = center;
+name = bottomMainForm;
 pos = (52,275);
 },
 {
@@ -32602,7 +32602,7 @@ unicode = 2488;
 category = Letter;
 color = 5;
 glyphname = "ha-beng";
-lastChange = "2024-10-11 19:43:15 +0000";
+lastChange = "2025-01-07 02:35:06 +0000";
 layers = (
 {
 anchors = (
@@ -32767,12 +32767,12 @@ name = bottom;
 pos = (237,93);
 },
 {
-name = center;
-pos = (453,247);
+name = bottomVattuPart;
+pos = (441,376);
 },
 {
-name = centerVattu;
-pos = (441,376);
+name = center;
+pos = (453,247);
 },
 {
 name = nukta;
@@ -33321,12 +33321,12 @@ name = bottom;
 pos = (278,120);
 },
 {
-name = center;
-pos = (404,246);
+name = bottomVattuPart;
+pos = (417,388);
 },
 {
-name = centerVattu;
-pos = (417,388);
+name = center;
+pos = (404,246);
 },
 {
 name = nukta;
@@ -33523,12 +33523,12 @@ name = bottom;
 pos = (197,52);
 },
 {
-name = center;
-pos = (495,206);
+name = bottomVattuPart;
+pos = (513,341);
 },
 {
-name = centerVattu;
-pos = (513,341);
+name = center;
+pos = (495,206);
 },
 {
 name = nukta;
@@ -71444,7 +71444,7 @@ category = Letter;
 color = 4;
 glyphname = "t_ra-beng";
 kernRight = R_BNG_t_ra;
-lastChange = "2024-10-11 17:30:32 +0000";
+lastChange = "2025-01-07 02:31:49 +0000";
 layers = (
 {
 anchors = (
@@ -71453,12 +71453,12 @@ name = bottom;
 pos = (495,0);
 },
 {
-name = center;
-pos = (563,233);
+name = bottomVattuPart;
+pos = (568,329);
 },
 {
-name = centerVattu;
-pos = (568,329);
+name = center;
+pos = (563,233);
 },
 {
 name = top_candrabindu;
@@ -71659,12 +71659,12 @@ name = bottom;
 pos = (529,0);
 },
 {
-name = center;
-pos = (547,266);
+name = bottomVattuPart;
+pos = (547,375);
 },
 {
-name = centerVattu;
-pos = (547,375);
+name = center;
+pos = (547,266);
 },
 {
 name = top_candrabindu;
@@ -71870,12 +71870,12 @@ name = bottom;
 pos = (471,-60);
 },
 {
-name = center;
-pos = (625,156);
+name = bottomVattuPart;
+pos = (650,311);
 },
 {
-name = centerVattu;
-pos = (650,311);
+name = center;
+pos = (625,156);
 },
 {
 name = top_candrabindu;
@@ -108578,7 +108578,7 @@ color = 9;
 glyphname = "d-beng.half2";
 kernLeft = "L_d-beng_half2";
 kernRight = R_BNG_da_half2;
-lastChange = "2024-10-11 17:30:32 +0000";
+lastChange = "2025-01-07 02:32:23 +0000";
 layers = (
 {
 anchors = (
@@ -108679,15 +108679,15 @@ width = 639;
 {
 anchors = (
 {
+name = bottomMainForm;
+pos = (142,284);
+},
+{
 name = bottomVattu;
 pos = (430,130);
 },
 {
-name = center;
-pos = (142,284);
-},
-{
-name = centerVattu;
+name = bottomVattuPart;
 pos = (508,290);
 },
 {
@@ -108905,15 +108905,15 @@ width = 603;
 {
 anchors = (
 {
+name = bottomMainForm;
+pos = (153,298);
+},
+{
 name = bottomVattu;
 pos = (439,180);
 },
 {
-name = center;
-pos = (153,298);
-},
-{
-name = centerVattu;
+name = bottomVattuPart;
 pos = (456,340);
 },
 {
@@ -109026,15 +109026,15 @@ width = 575;
 {
 anchors = (
 {
+name = bottomMainForm;
+pos = (142,295);
+},
+{
 name = bottomVattu;
 pos = (436,85);
 },
 {
-name = center;
-pos = (142,295);
-},
-{
-name = centerVattu;
+name = bottomVattuPart;
 pos = (605,199);
 },
 {
@@ -109152,7 +109152,7 @@ category = Letter;
 color = 9;
 glyphname = "d-beng.half3";
 kernLeft = "L_d-beng_half3";
-lastChange = "2024-10-11 17:30:32 +0000";
+lastChange = "2025-01-07 01:09:10 +0000";
 layers = (
 {
 anchors = (
@@ -109253,12 +109253,12 @@ width = 639;
 {
 anchors = (
 {
-name = bottomVattu;
-pos = (382,160);
+name = bottomMainForm;
+pos = (77,294);
 },
 {
-name = center;
-pos = (77,294);
+name = bottomVattu;
+pos = (382,160);
 },
 {
 name = top_candrabindu;
@@ -109440,12 +109440,12 @@ width = 603;
 {
 anchors = (
 {
-name = bottomVattu;
-pos = (364,210);
+name = bottomMainForm;
+pos = (78,316);
 },
 {
-name = center;
-pos = (78,316);
+name = bottomVattu;
+pos = (364,210);
 },
 {
 name = top_candrabindu;
@@ -109588,12 +109588,12 @@ width = 465;
 {
 anchors = (
 {
-name = bottomVattu;
-pos = (386,126);
+name = bottomMainForm;
+pos = (47,295);
 },
 {
-name = center;
-pos = (47,295);
+name = bottomVattu;
+pos = (386,126);
 },
 {
 name = top_candrabindu;
@@ -115708,7 +115708,7 @@ category = Letter;
 color = 9;
 glyphname = "bh-beng.half";
 kernRight = R_BNG_bha_half;
-lastChange = "2024-10-11 17:30:32 +0000";
+lastChange = "2025-01-07 02:32:52 +0000";
 layers = (
 {
 anchors = (
@@ -115717,7 +115717,7 @@ name = bottomVattu;
 pos = (440,180);
 },
 {
-name = centerVattu;
+name = bottomVattuPart;
 pos = (514,331);
 },
 {
@@ -115886,7 +115886,7 @@ name = bottomVattu;
 pos = (440,187);
 },
 {
-name = centerVattu;
+name = bottomVattuPart;
 pos = (456,358);
 },
 {
@@ -116055,7 +116055,7 @@ name = bottomVattu;
 pos = (449,131);
 },
 {
-name = centerVattu;
+name = bottomVattuPart;
 pos = (617,272);
 },
 {
@@ -121619,7 +121619,7 @@ category = Letter;
 color = 9;
 glyphname = "s-beng.half2";
 kernRight = R_BNG_sa_half2;
-lastChange = "2024-10-11 20:37:11 +0000";
+lastChange = "2025-01-07 02:33:18 +0000";
 layers = (
 {
 anchors = (
@@ -121628,7 +121628,7 @@ name = bottomVattu;
 pos = (477,265);
 },
 {
-name = centerVattu;
+name = bottomVattuPart;
 pos = (576,343);
 },
 {
@@ -121776,7 +121776,7 @@ name = bottomVattu;
 pos = (473,258);
 },
 {
-name = centerVattu;
+name = bottomVattuPart;
 pos = (488,341);
 },
 {
@@ -121869,7 +121869,7 @@ name = bottomVattu;
 pos = (445,253);
 },
 {
-name = centerVattu;
+name = bottomVattuPart;
 pos = (627,318);
 },
 {
@@ -129417,7 +129417,7 @@ subCategory = Nonspacing;
 category = Letter;
 color = 7;
 glyphname = "ttha-beng.side";
-lastChange = "2024-10-11 23:47:04 +0000";
+lastChange = "2025-01-07 00:52:46 +0000";
 layers = (
 {
 anchors = (
@@ -129426,12 +129426,12 @@ name = bottom;
 pos = (-103,9);
 },
 {
-name = bottomVattu;
-pos = (-45,11);
+name = bottomMainForm;
+pos = (-176,309);
 },
 {
-name = center;
-pos = (-176,309);
+name = bottomVattu;
+pos = (-45,11);
 },
 {
 name = nukta;
@@ -129624,12 +129624,12 @@ name = bottom;
 pos = (-6,43);
 },
 {
-name = bottomVattu;
-pos = (38,111);
+name = bottomMainForm;
+pos = (-105,300);
 },
 {
-name = center;
-pos = (-105,300);
+name = bottomVattu;
+pos = (38,111);
 },
 {
 name = nukta;
@@ -129822,12 +129822,12 @@ name = bottom;
 pos = (-134,-97);
 },
 {
-name = bottomVattu;
-pos = (-90,-48);
+name = bottomMainForm;
+pos = (-236,308);
 },
 {
-name = center;
-pos = (-236,308);
+name = bottomVattu;
+pos = (-90,-48);
 },
 {
 name = nukta;
@@ -129948,7 +129948,7 @@ nodes = (
 (-318,732,o),
 (-288,681,o),
 (-250,622,cs),
-(-202,549,o),
+(-203,549,o),
 (-187,467,o),
 (-187,402,cs),
 (-187,294,o),
@@ -129994,7 +129994,7 @@ category = Letter;
 color = 7;
 glyphname = "dda-beng.side";
 kernLeft = L_BNG_dda_side;
-lastChange = "2024-10-11 17:30:32 +0000";
+lastChange = "2025-01-07 00:52:11 +0000";
 layers = (
 {
 anchors = (
@@ -130125,12 +130125,12 @@ name = bottom;
 pos = (-9,26);
 },
 {
-name = bottomVattu;
-pos = (46,21);
+name = bottomMainForm;
+pos = (-143,343);
 },
 {
-name = center;
-pos = (-143,343);
+name = bottomVattu;
+pos = (46,21);
 },
 {
 name = nukta;
@@ -130267,12 +130267,12 @@ name = bottom;
 pos = (46,67);
 },
 {
-name = bottomVattu;
-pos = (96,116);
+name = bottomMainForm;
+pos = (-108,327);
 },
 {
-name = center;
-pos = (-108,327);
+name = bottomVattu;
+pos = (96,116);
 },
 {
 name = nukta;
@@ -130409,12 +130409,12 @@ name = bottom;
 pos = (-93,-5);
 },
 {
-name = bottomVattu;
-pos = (-46,63);
+name = bottomMainForm;
+pos = (-177,315);
 },
 {
-name = center;
-pos = (-177,315);
+name = bottomVattu;
+pos = (-46,63);
 },
 {
 name = nukta;
@@ -130552,7 +130552,7 @@ subCategory = Spacing;
 category = Letter;
 color = 7;
 glyphname = "ddha-beng.side";
-lastChange = "2024-10-11 17:30:32 +0000";
+lastChange = "2025-01-07 00:49:39 +0000";
 layers = (
 {
 anchors = (
@@ -130561,7 +130561,7 @@ name = bottom;
 pos = (24,37);
 },
 {
-name = center;
+name = bottomMainForm;
 pos = (-172,277);
 },
 {
@@ -130969,7 +130969,7 @@ name = bottom;
 pos = (79,72);
 },
 {
-name = center;
+name = bottomMainForm;
 pos = (-127,275);
 },
 {
@@ -131107,7 +131107,7 @@ name = bottom;
 pos = (-20,-7);
 },
 {
-name = center;
+name = bottomMainForm;
 pos = (-233,290);
 },
 {
@@ -131246,17 +131246,17 @@ subCategory = Spacing;
 category = Letter;
 color = 7;
 glyphname = "ddh-beng.side";
-lastChange = "2024-10-11 17:30:32 +0000";
+lastChange = "2025-01-07 00:51:46 +0000";
 layers = (
 {
 anchors = (
 {
-name = bottomVattu;
-pos = (65,82);
+name = bottomMainForm;
+pos = (-172,292);
 },
 {
-name = center;
-pos = (-172,292);
+name = bottomVattu;
+pos = (65,82);
 },
 {
 name = top_candrabindu;
@@ -131648,12 +131648,12 @@ width = 567;
 {
 anchors = (
 {
-name = bottomVattu;
-pos = (84,171);
+name = bottomMainForm;
+pos = (-127,299);
 },
 {
-name = center;
-pos = (-127,299);
+name = bottomVattu;
+pos = (84,171);
 },
 {
 name = top_candrabindu;
@@ -131746,12 +131746,12 @@ width = 271;
 {
 anchors = (
 {
-name = bottomVattu;
-pos = (13,97);
+name = bottomMainForm;
+pos = (-232,300);
 },
 {
-name = center;
-pos = (-232,300);
+name = bottomVattu;
+pos = (13,97);
 },
 {
 name = top_candrabindu;
@@ -131878,7 +131878,7 @@ subCategory = Spacing;
 category = Letter;
 color = 7;
 glyphname = "da-beng.side";
-lastChange = "2024-10-11 18:00:18 +0000";
+lastChange = "2025-01-07 00:55:06 +0000";
 layers = (
 {
 anchors = (
@@ -142646,7 +142646,7 @@ subCategory = Nonspacing;
 category = Mark;
 color = 6;
 glyphname = "baphala-beng.alt3";
-lastChange = "2024-10-11 17:30:32 +0000";
+lastChange = "2025-01-07 02:22:47 +0000";
 layers = (
 {
 anchors = (
@@ -142661,6 +142661,10 @@ pos = (256,-34);
 {
 name = bottom.Wa;
 pos = (146,-33);
+},
+{
+name = bottomJhaVattu;
+pos = (333,184);
 },
 {
 name = centerVattu;
@@ -142769,6 +142773,10 @@ name = bottom.Wa;
 pos = (106,-15);
 },
 {
+name = bottomJhaVattu;
+pos = (248,162);
+},
+{
 name = centerVattu;
 pos = (248,162);
 }
@@ -142840,6 +142848,10 @@ pos = (272,-118);
 {
 name = bottom.Wa;
 pos = (161,-127);
+},
+{
+name = bottomJhaVattu;
+pos = (436,169);
 },
 {
 name = centerVattu;
@@ -154765,12 +154777,12 @@ subCategory = Nonspacing;
 category = Mark;
 color = 6;
 glyphname = "jha-beng.part";
-lastChange = "2024-10-11 18:11:21 +0000";
+lastChange = "2025-01-07 02:21:46 +0000";
 layers = (
 {
 anchors = (
 {
-name = _centerVattu;
+name = _bottomJhaVattu;
 pos = (76,72);
 }
 );
@@ -155004,7 +155016,7 @@ width = 265;
 {
 anchors = (
 {
-name = _centerVattu;
+name = _bottomJhaVattu;
 pos = (33,57);
 }
 );
@@ -155238,7 +155250,7 @@ width = 203;
 {
 anchors = (
 {
-name = _centerVattu;
+name = _bottomJhaVattu;
 pos = (68,114);
 }
 );
